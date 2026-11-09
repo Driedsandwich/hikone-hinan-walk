@@ -1,0 +1,5487 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-09T01:44:35Z",
+    "timestamp_areas_base": "2026-11-08T22:01:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 582527746,
+  "lat": 35.2756183,
+  "lon": 136.2565319,
+  "tags": {
+    "name": "埋木舎",
+    "name:en": "Umoregi House",
+    "tourism": "museum",
+    "wikidata": "Q11425904"
+  }
+},
+{
+  "type": "node",
+  "id": 582761736,
+  "lat": 35.2753394,
+  "lon": 136.2553264,
+  "tags": {
+    "name": "開国記念館",
+    "name:en": "Kaikoku Memorial Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1912885085,
+  "lat": 35.2792513,
+  "lon": 136.2455891,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "瘡守稲荷神社",
+    "name:ja": "瘡守稲荷神社",
+    "religion": "shinto",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 1913583951,
+  "lat": 35.2778671,
+  "lon": 136.2440324,
+  "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2025-07-28",
+    "name": "北野神社",
+    "name:ja": "北野神社",
+    "religion": "shinto",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 1913650433,
+  "lat": 35.2781794,
+  "lon": 136.2419221,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "教禅寺",
+    "name:ja": "教禅寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 1913657390,
+  "lat": 35.2780277,
+  "lon": 136.2443560,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "北野寺",
+    "name:ja": "北野寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 1913660174,
+  "lat": 35.2750322,
+  "lon": 136.2444633,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "圓常寺",
+    "name:ja": "圓常寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 2482336137,
+  "lat": 35.2797906,
+  "lon": 136.2695383,
+  "tags": {
+    "castle_type": "shiro",
+    "historic": "castle",
+    "name": "佐和山城",
+    "wikidata": "Q1195682"
+  }
+},
+{
+  "type": "node",
+  "id": 2988992134,
+  "lat": 35.2440969,
+  "lon": 136.2368397,
+  "tags": {
+    "addr:city": "彦根市宇尾町",
+    "amenity": "place_of_worship",
+    "name": "白山神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 2988994494,
+  "lat": 35.2463900,
+  "lon": 136.2372769,
+  "tags": {
+    "addr:city": "彦根市西今町",
+    "amenity": "place_of_worship",
+    "name": "福満神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3048420663,
+  "lat": 35.2469345,
+  "lon": 136.2383571,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "光桂寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 3048421873,
+  "lat": 35.2445028,
+  "lon": 136.2354952,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "真楽寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 3502729278,
+  "lat": 35.2565845,
+  "lon": 136.2537983,
+  "tags": {
+    "addr:city": "彦根市岡町字北屋敷156",
+    "addr:postcode": "522-0037",
+    "amenity": "place_of_worship",
+    "name": "新神社",
+    "name:en": "Shin shrine",
+    "name:ja": "新神社",
+    "name:ja-Hira": "しんじんじゃ",
+    "name:ja-Latn": "Shin jinja",
+    "phone": "+86 749 22 3727",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3502733596,
+  "lat": 35.2561548,
+  "lon": 136.2557399,
+  "tags": {
+    "addr:city": "彦根市岡町字字新宮山151",
+    "addr:postcode": "522-0037",
+    "amenity": "place_of_worship",
+    "name": "高松稲荷神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3630162090,
+  "lat": 35.2722017,
+  "lon": 136.2633658,
+  "tags": {
+    "KSJ2:LIN": "東海道線",
+    "KSJ2:STN": "彦根",
+    "addr:block_number": "40",
+    "addr:city": "彦根市",
+    "addr:province": "滋賀県",
+    "addr:quarter": "古沢町",
+    "name": "彦根",
+    "name:en": "Hikone",
+    "name:ja": "彦根",
+    "name:ja-Hira": "ひこね",
+    "name:ko": "히코네",
+    "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+    "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "JR-A13",
+    "source": "KSJ2",
+    "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+    "wheelchair": "yes",
+    "wikidata": "Q1131151",
+    "wikipedia": "ja:彦根駅"
+  }
+},
+{
+  "type": "node",
+  "id": 3638798708,
+  "lat": 35.2562352,
+  "lon": 136.2556910,
+  "tags": {
+    "addr:housenumber": "151",
+    "amenity": "place_of_worship",
+    "name": "高松稲荷神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3729272382,
+  "lat": 35.2612923,
+  "lon": 136.2528900,
+  "tags": {
+    "addr:city": "彦根市後三条町宮立122",
+    "addr:postcode": "522-0086",
+    "amenity": "place_of_worship",
+    "name": "彦根神社（HikoneJinjya）",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3729349257,
+  "lat": 35.2557527,
+  "lon": 136.2723548,
+  "tags": {
+    "addr:city": "彦根市地蔵町1",
+    "addr:postcode": "522-0029",
+    "amenity": "place_of_worship",
+    "name": "春日神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3729349259,
+  "lat": 35.2668248,
+  "lon": 136.2657979,
+  "tags": {
+    "addr:city": "彦根市外町227",
+    "addr:postcode": "522-0009",
+    "amenity": "place_of_worship",
+    "name": "櫻神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3729349260,
+  "lat": 35.2475770,
+  "lon": 136.2655443,
+  "tags": {
+    "addr:city": "彦根市大堀町749",
+    "amenity": "place_of_worship",
+    "name": "岩清水神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3729349261,
+  "lat": 35.2485260,
+  "lon": 136.2469223,
+  "tags": {
+    "addr:full": "彦根市小泉町八王子621",
+    "addr:postcode": "522-0043",
+    "amenity": "place_of_worship",
+    "name": "八王子神社(近々木神社）",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3729349262,
+  "lat": 35.2624679,
+  "lon": 136.2189234,
+  "tags": {
+    "addr:city": "彦根市八坂町",
+    "addr:housenumber": "1088",
+    "addr:postcode": "522-0057",
+    "amenity": "place_of_worship",
+    "name": "木和田神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3779548603,
+  "lat": 35.2573528,
+  "lon": 136.2485526,
+  "tags": {
+    "addr:city": "彦根市平田町",
+    "addr:housenumber": "1068",
+    "amenity": "place_of_worship",
+    "name": "鳴宮神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3779548604,
+  "lat": 35.2591433,
+  "lon": 136.2380362,
+  "tags": {
+    "addr:city": "彦根市平田町",
+    "addr:housenumber": "530",
+    "amenity": "place_of_worship",
+    "name": "鳴宮神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3803414571,
+  "lat": 35.2591529,
+  "lon": 136.2592304,
+  "tags": {
+    "addr:city": "彦根市芹川町大仏",
+    "addr:housenumber": "916",
+    "addr:postcode": "522-0033",
+    "amenity": "place_of_worship",
+    "name": "稲生神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3803416219,
+  "lat": 35.2524738,
+  "lon": 136.2435362,
+  "tags": {
+    "addr:city": "彦根市戸賀町",
+    "addr:housenumber": "249",
+    "addr:postcode": "522-0042",
+    "amenity": "place_of_worship",
+    "name": "八坂神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 3817325383,
+  "lat": 35.2335411,
+  "lon": 136.1978718,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "荒神山神社",
+    "religion": "shinto",
+    "wikidata": "Q11618829",
+    "wikipedia": "ja:荒神山神社"
+  }
+},
+{
+  "type": "node",
+  "id": 3999683418,
+  "lat": 35.2460730,
+  "lon": 136.2479499,
+  "tags": {
+    "name": "南彦根",
+    "name:de": "Minami-Hikone",
+    "name:en": "Minami-Hikone",
+    "name:ja": "南彦根",
+    "name:ko": "미나미히코네",
+    "name:ru": "Минами-Хиконе",
+    "public_transport": "station",
+    "railway": "station",
+    "wheelchair": "yes",
+    "wikidata": "Q1042827",
+    "wikipedia": "ja:南彦根駅"
+  }
+},
+{
+  "type": "node",
+  "id": 4388714089,
+  "lat": 35.2641820,
+  "lon": 136.2457700,
+  "tags": {
+    "addr:postcode": "522-0086",
+    "addr:street": "522-0086 滋賀県彦根市後三条町602番地",
+    "amenity": "place_of_worship",
+    "name": "めぐみキリスト教会",
+    "name:en": "WEC JP Megumi",
+    "name:ja": "めぐみキリスト教会",
+    "phone": "0749-26-1839",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4389616467,
+  "lat": 35.2783920,
+  "lon": 136.2655262,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "仙琳寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 4389648516,
+  "lat": 35.2838180,
+  "lon": 136.2663953,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "井伊神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 4389652283,
+  "lat": 35.2827945,
+  "lon": 136.2664548,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "龍潭寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 4389672844,
+  "lat": 35.2855952,
+  "lon": 136.2651636,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "大洞弁財天",
+    "religion": "buddhist",
+    "wikidata": "Q97186807",
+    "wikipedia": "ja:長寿院"
+  }
+},
+{
+  "type": "node",
+  "id": 4404281354,
+  "lat": 35.2744409,
+  "lon": 136.2576655,
+  "tags": {
+    "check_date": "2025-04-24",
+    "information": "map",
+    "name": "彦根城周辺案内図",
+    "name:en": "Directory",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4405142292,
+  "lat": 35.2714680,
+  "lon": 136.2545394,
+  "tags": {
+    "information": "map",
+    "map_size": "local",
+    "map_type": "street",
+    "name": "ひこね・街歩きまっぷ",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4405142293,
+  "lat": 35.2723279,
+  "lon": 136.2524323,
+  "tags": {
+    "information": "map",
+    "map_size": "yes",
+    "map_type": "yes",
+    "name": "ひこね・街歩きまっぷ",
+    "name:en": "Directory",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4405142722,
+  "lat": 35.2749727,
+  "lon": 136.2520217,
+  "tags": {
+    "information": "map",
+    "name": "彦根城案内地図",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4405142723,
+  "lat": 35.2755126,
+  "lon": 136.2512294,
+  "tags": {
+    "information": "map",
+    "name": "彦根城案内地図",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4405298632,
+  "lat": 35.2780432,
+  "lon": 136.2516606,
+  "tags": {
+    "check_date": "2026-10-14",
+    "information": "map",
+    "name": "彦根城案内地図",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4406247256,
+  "lat": 35.2761345,
+  "lon": 136.2521892,
+  "tags": {
+    "direction": "20",
+    "information": "map",
+    "name": "彦根城案内地図",
+    "name:en": "Directory",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4406247257,
+  "lat": 35.2766553,
+  "lon": 136.2515924,
+  "tags": {
+    "information": "map",
+    "name": "彦根城案内地図",
+    "name:en": "Directory",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4406279616,
+  "lat": 35.2748445,
+  "lon": 136.2538858,
+  "tags": {
+    "direction": "30",
+    "information": "map",
+    "name": "彦根城案内地図",
+    "name:en": "Guide Map",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4406279617,
+  "lat": 35.2753320,
+  "lon": 136.2523048,
+  "tags": {
+    "direction": "50",
+    "information": "map",
+    "map_size": "site",
+    "map_type": "street",
+    "name": "彦根城案内地図",
+    "name:en": "Castle Map",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 4406279618,
+  "lat": 35.2750747,
+  "lon": 136.2542520,
+  "tags": {
+    "historic": "memorial",
+    "material": "stone",
+    "memorial": "stele",
+    "name": "琵琶湖八景 月明 彦根の古城",
+    "name:en": "Monument"
+  }
+},
+{
+  "type": "node",
+  "id": 4831950521,
+  "lat": 35.2723682,
+  "lon": 136.2628166,
+  "tags": {
+    "artwork_type": "statue",
+    "historic": "memorial",
+    "material": "bronze",
+    "memorial": "statue",
+    "name": "井伊直政公像",
+    "name:en": "Ii Naomasa equestrian statue",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 5595605971,
+  "lat": 35.2969492,
+  "lon": 136.1788798,
+  "tags": {
+    "historic": "memorial",
+    "name": "おだいもく岩",
+    "natural": "rock"
+  }
+},
+{
+  "type": "node",
+  "id": 5595605977,
+  "lat": 35.2965568,
+  "lon": 136.1778666,
+  "tags": {
+    "historic": "memorial",
+    "name": "多景島　献詩之碑"
+  }
+},
+{
+  "type": "node",
+  "id": 5598726121,
+  "lat": 35.2780438,
+  "lon": 136.2528464,
+  "tags": {
+    "historic": "memorial",
+    "name": "井伊直弼生誕地"
+  }
+},
+{
+  "type": "node",
+  "id": 5598726138,
+  "lat": 35.2722547,
+  "lon": 136.2626653,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "sculpture",
+    "name": "彦根縁起"
+  }
+},
+{
+  "type": "node",
+  "id": 5598726139,
+  "lat": 35.2723377,
+  "lon": 136.2628316,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "彦根藩初代藩主 井伊直政公像"
+  }
+},
+{
+  "type": "node",
+  "id": 5598726331,
+  "lat": 35.2830530,
+  "lon": 136.2497337,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "松原橋"
+  }
+},
+{
+  "type": "node",
+  "id": 5598726332,
+  "lat": 35.2777118,
+  "lon": 136.2591525,
+  "tags": {
+    "check_date": "2025-04-25",
+    "information": "map",
+    "name": "周辺案内図",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5865079891,
+  "lat": 35.2956618,
+  "lon": 136.2571034,
+  "tags": {
+    "name": "鳥人間コンテスト 会場",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5865079908,
+  "lat": 35.2649492,
+  "lon": 136.2470723,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "後三条伏見稲荷神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5865079912,
+  "lat": 35.2630523,
+  "lon": 136.2538351,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "明専寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5865080491,
+  "lat": 35.2861399,
+  "lon": 136.2506347,
+  "tags": {
+    "name": "松原下屋敷（お浜御殿）",
+    "name:en": "Matsubara-Shimoyashiki",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5865080692,
+  "lat": 35.2744974,
+  "lon": 136.2470593,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "善教寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5865080693,
+  "lat": 35.2740581,
+  "lon": 136.2426513,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "まめ大師尊弘法大師堂",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5865098386,
+  "lat": 35.2732216,
+  "lon": 136.2435611,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "正覚院",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5870334399,
+  "lat": 35.2682057,
+  "lon": 136.2538545,
+  "tags": {
+    "name": "彦根城 土塁跡",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5870334696,
+  "lat": 35.2701755,
+  "lon": 136.2504883,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "善照寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5870334699,
+  "lat": 35.2698038,
+  "lon": 136.2533677,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "唯念寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5870340288,
+  "lat": 35.2703658,
+  "lon": 136.2539697,
+  "tags": {
+    "name": "俳遊館",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5872949491,
+  "lat": 35.2726888,
+  "lon": 136.2645341,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "稲荷神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5872949493,
+  "lat": 35.2743784,
+  "lon": 136.2667261,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "古澤寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5872949494,
+  "lat": 35.2749000,
+  "lon": 136.2609142,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "浄運寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5872949495,
+  "lat": 35.2739965,
+  "lon": 136.2604226,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "法輪寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5872949496,
+  "lat": 35.2741015,
+  "lon": 136.2612370,
+  "tags": {
+    "name": "中村商家保存館",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5872981186,
+  "lat": 35.2797874,
+  "lon": 136.2660774,
+  "tags": {
+    "name": "石田三成 屋敷跡",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5872988085,
+  "lat": 35.2815731,
+  "lon": 136.2652327,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "長林稲荷大明神",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887236392,
+  "lat": 35.2737884,
+  "lon": 136.2585300,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "八千代大明神",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887236404,
+  "lat": 35.2684665,
+  "lon": 136.2607738,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "神明宮",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887236405,
+  "lat": 35.2682543,
+  "lon": 136.2610036,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "賢木神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887248197,
+  "lat": 35.2483958,
+  "lon": 136.2471892,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "泉祖辨財天",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887259296,
+  "lat": 35.2644472,
+  "lon": 136.2564586,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "妙源寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887259297,
+  "lat": 35.2554450,
+  "lon": 136.2557107,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "東光寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887259817,
+  "lat": 35.2650078,
+  "lon": 136.2594317,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "常楽寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887259821,
+  "lat": 35.2535938,
+  "lon": 136.2587573,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "常円寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887259823,
+  "lat": 35.2510258,
+  "lon": 136.2592555,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "八幡神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887260019,
+  "lat": 35.2644632,
+  "lon": 136.2541922,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "淨願寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887260039,
+  "lat": 35.2655661,
+  "lon": 136.2583544,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "称名院",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887262692,
+  "lat": 35.2536589,
+  "lon": 136.2593075,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "光明寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887262693,
+  "lat": 35.2509870,
+  "lon": 136.2602882,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "光照寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887262886,
+  "lat": 35.2676161,
+  "lon": 136.2541861,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "長光寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887262893,
+  "lat": 35.2515179,
+  "lon": 136.2624959,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "秋葉神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280291,
+  "lat": 35.2358899,
+  "lon": 136.2569325,
+  "tags": {
+    "name": "中山道 高宮宿",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280292,
+  "lat": 35.2345989,
+  "lon": 136.2573855,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "妙蓮寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280296,
+  "lat": 35.2336399,
+  "lon": 136.2552230,
+  "tags": {
+    "name": "高宮宿 本陣跡",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280300,
+  "lat": 35.2334454,
+  "lon": 136.2571974,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "高宮寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280301,
+  "lat": 35.2313487,
+  "lon": 136.2572674,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "圓成院",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280303,
+  "lat": 35.2312885,
+  "lon": 136.2561019,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "東福寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280785,
+  "lat": 35.2461506,
+  "lon": 136.2647213,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "唯稱寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280787,
+  "lat": 35.2371845,
+  "lon": 136.2569238,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "宮町地蔵尊",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280788,
+  "lat": 35.2374470,
+  "lon": 136.2560001,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "高宮神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5887280790,
+  "lat": 35.2323214,
+  "lon": 136.2536940,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "むちん橋地蔵尊",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5887281090,
+  "lat": 35.2316680,
+  "lon": 136.2553373,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "豊勝稲荷大明神",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801087,
+  "lat": 35.2214621,
+  "lon": 136.2291697,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "法蔵寺",
+    "religion": "buddhist",
+    "wikidata": "Q11555344",
+    "wikipedia": "ja:法蔵寺 (彦根市)"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801189,
+  "lat": 35.2215752,
+  "lon": 136.2297397,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "浄國寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801205,
+  "lat": 35.2358953,
+  "lon": 136.2136747,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "西福寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801293,
+  "lat": 35.2205497,
+  "lon": 136.2316035,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "五十楼波宮"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801316,
+  "lat": 35.2309503,
+  "lon": 136.2157144,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "正福寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801317,
+  "lat": 35.2342084,
+  "lon": 136.2160949,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "専精寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5893801319,
+  "lat": 35.2367031,
+  "lon": 136.2158185,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "安立寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754086,
+  "lat": 35.2410254,
+  "lon": 136.2193636,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "善楽寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754087,
+  "lat": 35.2393419,
+  "lon": 136.2186900,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "本覚寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754089,
+  "lat": 35.2376055,
+  "lon": 136.2285272,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "蓮生寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754090,
+  "lat": 35.2458095,
+  "lon": 136.2223911,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "甘呂神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754091,
+  "lat": 35.2452361,
+  "lon": 136.2199135,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "願宗寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754092,
+  "lat": 35.2479461,
+  "lon": 136.2291795,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "満願寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754100,
+  "lat": 35.2530442,
+  "lon": 136.2361867,
+  "tags": {
+    "name": "ダンススタジオ山本",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754112,
+  "lat": 35.2544691,
+  "lon": 136.2422777,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "一妙寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754287,
+  "lat": 35.2374794,
+  "lon": 136.2281387,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "蓮台寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895754295,
+  "lat": 35.2550011,
+  "lon": 136.2418312,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "明照寺",
+    "religion": "buddhist",
+    "wikidata": "Q11512440",
+    "wikipedia": "ja:明照寺 (彦根市)"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757186,
+  "lat": 35.2415212,
+  "lon": 136.2166628,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "聖徳寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757187,
+  "lat": 35.2481138,
+  "lon": 136.2274556,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "菅原寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757188,
+  "lat": 35.2490575,
+  "lon": 136.2281202,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "覺勝寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757206,
+  "lat": 35.2543484,
+  "lon": 136.2426111,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "得法寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757212,
+  "lat": 35.2528085,
+  "lon": 136.2431494,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "遍照寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757885,
+  "lat": 35.2377200,
+  "lon": 136.2173689,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "広泉寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895757889,
+  "lat": 35.2483446,
+  "lon": 136.2300714,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "善教寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895761086,
+  "lat": 35.2545086,
+  "lon": 136.2427816,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "眞成寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5895892685,
+  "lat": 35.2590699,
+  "lon": 136.2364556,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "西蓮寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5901188804,
+  "lat": 35.2693347,
+  "lon": 136.2425404,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "竜泉寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5903397692,
+  "lat": 35.2844012,
+  "lon": 136.2840099,
+  "tags": {
+    "name": "鳥居本 本陣跡",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5903397694,
+  "lat": 35.2919492,
+  "lon": 136.2856892,
+  "tags": {
+    "historic": "monument",
+    "name": "摺針峠望湖堂 石碑"
+  }
+},
+{
+  "type": "node",
+  "id": 5903397696,
+  "lat": 35.2997855,
+  "lon": 136.2887399,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "光善寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 5903410992,
+  "lat": 35.2795198,
+  "lon": 136.2776310,
+  "tags": {
+    "castle_type": "shiro",
+    "historic": "castle",
+    "name": "佐和山城 大手門跡"
+  }
+},
+{
+  "type": "node",
+  "id": 5903411786,
+  "lat": 35.2874852,
+  "lon": 136.2854869,
+  "tags": {
+    "name": "中山道 鳥居本宿",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5903411787,
+  "lat": 35.2902834,
+  "lon": 136.2854678,
+  "tags": {
+    "historic": "monument",
+    "name": "旅人の像"
+  }
+},
+{
+  "type": "node",
+  "id": 5903411788,
+  "lat": 35.2942377,
+  "lon": 136.2874853,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "山田神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 5968087086,
+  "lat": 35.2807035,
+  "lon": 136.2688621,
+  "tags": {
+    "castle_type": "shiro",
+    "historic": "castle",
+    "name": "上段曲輪"
+  }
+},
+{
+  "type": "node",
+  "id": 5968092786,
+  "lat": 35.2813269,
+  "lon": 136.2693452,
+  "tags": {
+    "castle_type": "shiro",
+    "historic": "castle",
+    "name": "下段曲輪",
+    "name:en": "nishinomaru"
+  }
+},
+{
+  "type": "node",
+  "id": 5968122696,
+  "lat": 35.2810580,
+  "lon": 136.2688940,
+  "tags": {
+    "castle_type": "shiro",
+    "historic": "castle",
+    "name": "中段曲輪"
+  }
+},
+{
+  "type": "node",
+  "id": 5968123185,
+  "lat": 35.2797963,
+  "lon": 136.2691180,
+  "tags": {
+    "castle_type": "shiro",
+    "historic": "castle",
+    "name": "本丸跡"
+  }
+},
+{
+  "type": "node",
+  "id": 6329191442,
+  "lat": 35.2725890,
+  "lon": 136.2644341,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "辛苦是経営",
+    "material": "stone",
+    "memorial": "stone",
+    "name": "辛苦是経営",
+    "name:ja": "辛苦是経営",
+    "name:ja-Hira": "しんくこれけいえい",
+    "name:ja-Latn": "Shinku kore keiei"
+  }
+},
+{
+  "type": "node",
+  "id": 6561401686,
+  "lat": 35.2858624,
+  "lon": 136.3413890,
+  "tags": {
+    "addr:street": "滋賀県彦根市",
+    "amenity": "place_of_worship",
+    "name": "大杉神社（北原竜宮）",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 6561435885,
+  "lat": 35.2882406,
+  "lon": 136.3409573,
+  "tags": {
+    "addr:street": "滋賀県彦根市",
+    "amenity": "place_of_worship",
+    "name": "大杉神社（北原竜宮）",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 7097140175,
+  "lat": 35.2548213,
+  "lon": 136.2584183,
+  "tags": {
+    "KSJ2:LIN": "本線",
+    "KSJ2:RAS": "eb03_1371",
+    "KSJ2:STN": "彦根口",
+    "KSJ2:segment": "eb02_2683",
+    "name": "彦根口",
+    "name:en": "Hikoneguchi",
+    "name:ja": "彦根口",
+    "name:ja-Hira": "ひこねぐち",
+    "name:ko": "히코네구치",
+    "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+    "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q3661724",
+    "wikipedia": "ja:彦根口駅"
+  }
+},
+{
+  "type": "node",
+  "id": 7416949469,
+  "lat": 35.2353433,
+  "lon": 136.2567537,
+  "tags": {
+    "information": "map",
+    "map_size": "site",
+    "map_type": "street",
+    "name": "高宮宿",
+    "ref": "64",
+    "tourism": "information",
+    "wikidata": "Q3514166",
+    "wikipedia": "ja:高宮宿"
+  }
+},
+{
+  "type": "node",
+  "id": 7416954900,
+  "lat": 35.2292093,
+  "lon": 136.2512384,
+  "tags": {
+    "historic": "memorial",
+    "material": "concrete",
+    "memorial": "stele",
+    "name": "一里塚跡"
+  }
+},
+{
+  "type": "node",
+  "id": 7416954916,
+  "lat": 35.2257191,
+  "lon": 136.2474820,
+  "tags": {
+    "hiking": "yes",
+    "information": "map",
+    "map_size": "site",
+    "map_type": "scheme",
+    "name": "つづらマップ",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7416954927,
+  "lat": 35.2232245,
+  "lon": 136.2458204,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "真言宗",
+    "name": "還相寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "node",
+  "id": 7416954939,
+  "lat": 35.2201908,
+  "lon": 136.2430000,
+  "tags": {
+    "hiking": "yes",
+    "information": "map",
+    "map_size": "site",
+    "map_type": "scheme",
+    "name": "つづらマップ",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7417118589,
+  "lat": 35.2407773,
+  "lon": 136.2606590,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "中山道 高宮宿",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418532464,
+  "lat": 35.2914105,
+  "lon": 136.2857390,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "右中山道",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418532479,
+  "lat": 35.2906076,
+  "lon": 136.2853709,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "右中山道",
+    "start_date": "ja:昭和54",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552700,
+  "lat": 35.2840635,
+  "lon": 136.2839171,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "とりいもと宿",
+    "ref": "63",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552707,
+  "lat": 35.2825046,
+  "lon": 136.2834880,
+  "tags": {
+    "information": "guidepost",
+    "name": "中山道 鳥居本宿",
+    "ref": "63",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552713,
+  "lat": 35.2785589,
+  "lon": 136.2826122,
+  "tags": {
+    "historic": "memorial",
+    "information": "guidepost",
+    "material": "stone",
+    "memorial": "stele",
+    "name": "道標",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552720,
+  "lat": 35.2679331,
+  "lon": 136.2795398,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "八幡神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552721,
+  "lat": 35.2679856,
+  "lon": 136.2796766,
+  "tags": {
+    "information": "guidepost",
+    "name": "聖谷",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552722,
+  "lat": 35.2656884,
+  "lon": 136.2792259,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "中山道",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552725,
+  "lat": 35.2656676,
+  "lon": 136.2792313,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "小町前",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552726,
+  "lat": 35.2647248,
+  "lon": 136.2789309,
+  "tags": {
+    "information": "guidepost",
+    "name": "角路",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418552731,
+  "lat": 35.2595441,
+  "lon": 136.2758128,
+  "tags": {
+    "information": "guidepost",
+    "name": "中山道",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418590882,
+  "lat": 35.2941980,
+  "lon": 136.2968896,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "摺針峠 彦根",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418590884,
+  "lat": 35.2941706,
+  "lon": 136.2968561,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "中山道",
+    "name:ja-Hira": "なかせんどう",
+    "name:ja-Latn": "Nakasendou",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418606994,
+  "lat": 35.2934115,
+  "lon": 136.2914092,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "中山道",
+    "material": "stone",
+    "memorial": "stele",
+    "name": "中山道",
+    "name:ja": "中山道",
+    "name:ja-Hira": "なかせんどう",
+    "name:ja-Latn": "Nakasendō"
+  }
+},
+{
+  "type": "node",
+  "id": 7418607016,
+  "lat": 35.2938276,
+  "lon": 136.2910791,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "西国古道",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418607019,
+  "lat": 35.2936925,
+  "lon": 136.2905529,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "西国古道",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418607023,
+  "lat": 35.2934930,
+  "lon": 136.2903665,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "中山道",
+    "name:ja": "中山道",
+    "name:ja-Hira": "なかせんどう",
+    "name:ja-Latn": "Nakasendō",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 7418607061,
+  "lat": 35.2921253,
+  "lon": 136.2861025,
+  "tags": {
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "中山道",
+    "name:ja": "中山道",
+    "name:ja-Hira": "なかせんどう",
+    "name:ja-Latn": "Nakasendō",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 8279126918,
+  "lat": 35.2728784,
+  "lon": 136.2561279,
+  "tags": {
+    "addr:postcode": "522-0062",
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "カトリック彦根教会",
+    "name:en": "Hikone Catholic Church",
+    "phone": "0749234611",
+    "religion": "christian",
+    "website": "http://ch.febcjp.com/2017/02/14/resp170214_04/"
+  }
+},
+{
+  "type": "node",
+  "id": 10284057674,
+  "lat": 35.2771805,
+  "lon": 136.2594659,
+  "tags": {
+    "information": "map",
+    "name": "周辺案内図",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 10284069758,
+  "lat": 35.2747309,
+  "lon": 136.2574733,
+  "tags": {
+    "historic": "memorial",
+    "material": "stone",
+    "memorial": "stele",
+    "name": "平和の礎"
+  }
+},
+{
+  "type": "node",
+  "id": 10284079001,
+  "lat": 35.2746961,
+  "lon": 136.2574363,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "滋賀縣護國神社"
+  }
+},
+{
+  "type": "node",
+  "id": 10285294048,
+  "lat": 35.2856433,
+  "lon": 136.2466990,
+  "tags": {
+    "historic": "memorial",
+    "name": "琵琶湖周航の歌"
+  }
+},
+{
+  "type": "node",
+  "id": 10285356609,
+  "lat": 35.2839985,
+  "lon": 136.2487593,
+  "tags": {
+    "historic": "monument",
+    "name": "松原寺"
+  }
+},
+{
+  "type": "node",
+  "id": 11449234789,
+  "lat": 35.2717159,
+  "lon": 136.2635056,
+  "tags": {
+    "name": "彦根",
+    "name:en": "Hikone",
+    "name:ja": "彦根",
+    "name:ja-Hira": "ひこね",
+    "name:ko": "히코네",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "OR04",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12767591357,
+  "lat": 35.2747648,
+  "lon": 136.2573686,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "平和の礎"
+  }
+},
+{
+  "type": "node",
+  "id": 12767779945,
+  "lat": 35.2698848,
+  "lon": 136.2547139,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "傳馬町高札場"
+  }
+},
+{
+  "type": "node",
+  "id": 12767779946,
+  "lat": 35.2704394,
+  "lon": 136.2566236,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "油懸口御門跡"
+  }
+},
+{
+  "type": "node",
+  "id": 12981537586,
+  "lat": 35.2717610,
+  "lon": 136.2625052,
+  "tags": {
+    "direction": "100",
+    "information": "map",
+    "name": "周辺案内図",
+    "name:fr": "Vicinity Map",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13308720153,
+  "lat": 35.2641565,
+  "lon": 136.2564302,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "青龍山 大雲寺"
+  }
+},
+{
+  "type": "node",
+  "id": 13310397759,
+  "lat": 35.2646580,
+  "lon": 136.2557553,
+  "tags": {
+    "information": "map",
+    "name": "花しょうぶ通り",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13310413234,
+  "lat": 35.2642041,
+  "lon": 136.2564510,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "日蓮宗 妙源寺"
+  }
+},
+{
+  "type": "node",
+  "id": 13326311434,
+  "lat": 35.2650555,
+  "lon": 136.2545942,
+  "tags": {
+    "information": "map",
+    "name": "滋賀県社交飲食業生活衛生同業組合 加盟店舗一覧",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13409755449,
+  "lat": 35.2681967,
+  "lon": 136.2494834,
+  "tags": {
+    "information": "map",
+    "map_size": "city",
+    "name": "旧彦根藩足軽組屋敷善利組周辺ご案内",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13414920945,
+  "lat": 35.2678049,
+  "lon": 136.2480057,
+  "tags": {
+    "information": "guidepost",
+    "name": "十四丁目",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13429897486,
+  "lat": 35.2712250,
+  "lon": 136.2515658,
+  "tags": {
+    "information": "map",
+    "name": "ひこね・街歩きまっぷ",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13431583230,
+  "lat": 35.2755164,
+  "lon": 136.2550029,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "家老 木俣屋敷跡"
+  }
+},
+{
+  "type": "node",
+  "id": 13431583287,
+  "lat": 35.2751337,
+  "lon": 136.2544889,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "重要文化財 馬屋"
+  }
+},
+{
+  "type": "node",
+  "id": 13433891115,
+  "lat": 35.2757395,
+  "lon": 136.2563514,
+  "tags": {
+    "historic": "memorial",
+    "name": "埋木舎"
+  }
+},
+{
+  "type": "node",
+  "id": 13433891128,
+  "lat": 35.2749126,
+  "lon": 136.2556584,
+  "tags": {
+    "information": "guidepost",
+    "name": "埋木舎",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13436721857,
+  "lat": 35.2748441,
+  "lon": 136.2557751,
+  "tags": {
+    "information": "map",
+    "name": "彦根城下町マップ",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13436721859,
+  "lat": 35.2748291,
+  "lon": 136.2558093,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "stele",
+    "name": "井伊大老歌碑"
+  }
+},
+{
+  "type": "node",
+  "id": 13449290902,
+  "lat": 35.2437319,
+  "lon": 136.2502165,
+  "tags": {
+    "information": "office",
+    "level": "0",
+    "name": "インフォメーション",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13638174729,
+  "lat": 35.2615483,
+  "lon": 136.2569060,
+  "tags": {
+    "direction": "320",
+    "name": "中芹川橋橋の中",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13717605401,
+  "lat": 35.2754097,
+  "lon": 136.2473687,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Hikone Grace Anglican Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 176319591,
+  "center": {
+    "lat": 35.2252842,
+    "lon": 136.2044689
+  },
+  "tags": {
+    "historic": "castle",
+    "name": "山崎山城跡",
+    "ruins": "yes",
+    "source": "http://www.city.hikone.shiga.jp/0000003416.html"
+  }
+},
+{
+  "type": "way",
+  "id": 209262408,
+  "center": {
+    "lat": 35.2770307,
+    "lon": 136.2521014
+  },
+  "tags": {
+    "castle_type": "shiro",
+    "contact:website": "https://hikonecastle.com/",
+    "fee": "yes",
+    "heritage": "2",
+    "heritage:operator": "文部科学省",
+    "heritage:type": "国宝",
+    "heritage:wikidata": "Q1139795",
+    "historic": "castle",
+    "historic:period": "azuchi-momoyama",
+    "name": "彦根城",
+    "name:en": "Hikone Castle",
+    "name:es": "Castillo de Hikone",
+    "name:fr": "Château de Hikone",
+    "name:ja-Hira": "ひこねじょう",
+    "name:ja-Latn": "Hikone-jō",
+    "start_date": "1607",
+    "wikidata": "Q1012374",
+    "wikimedia_commons": "Category:Hikone Castle",
+    "wikipedia": "ja:彦根城"
+  }
+},
+{
+  "type": "way",
+  "id": 363244223,
+  "center": {
+    "lat": 35.2753358,
+    "lon": 136.2517204
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "地蔵堂",
+    "religion": "buddhist",
+    "source": "Bing, 2011-4"
+  }
+},
+{
+  "type": "way",
+  "id": 363244224,
+  "center": {
+    "lat": 35.2764824,
+    "lon": 136.2519245
+  },
+  "tags": {
+    "building": "yes",
+    "defensive": "tenshu",
+    "heritage": "yes",
+    "historic": "castle",
+    "historic:period": "azuchi-momoyama",
+    "name": "彦根城",
+    "name:en": "Hikone Castle Keep Tower",
+    "name:fr": "Tenshu du château de Hikone",
+    "name:ja-Hira": "ひこねじょう てんしゅ",
+    "name:ja-Latn": "Hikone-jō Tenshu",
+    "source": "Bing, 2011-4",
+    "wikidata": "Q107020403",
+    "wikimedia_commons": "Category:Hikone Castle Keep Tower"
+  }
+},
+{
+  "type": "way",
+  "id": 363244231,
+  "center": {
+    "lat": 35.2756185,
+    "lon": 136.2536182
+  },
+  "tags": {
+    "building": "museum",
+    "contact:facebook": "彦根城博物館-438783256301784",
+    "contact:tripadvisor": "1425156",
+    "contact:twitter": "hikone_museum",
+    "contact:website": "https://hikone-castle-museum.jp/",
+    "fee": "yes",
+    "name": "彦根城博物館",
+    "name:en": "Hikone Castle Museum",
+    "name:es": "Museo del castillo",
+    "name:fr": "Musée du château de Hikone",
+    "name:ja-Hira": "ひこねじょう はくぶつかん",
+    "name:ja-Latn": "Hikone-jō Hakubutsukan",
+    "operator": "全国歴史民俗系博物館協議会",
+    "operator:wikidata": "Q104447152",
+    "source": "Bing, 2011-4",
+    "start_date": "1987-02-12",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q11487933",
+    "wikimedia_commons": "Category:Hikone Castle Museum",
+    "wikipedia": "ja:彦根城博物館"
+  }
+},
+{
+  "type": "way",
+  "id": 380034664,
+  "center": {
+    "lat": 35.2771650,
+    "lon": 136.2464107
+  },
+  "tags": {
+    "building": "yes",
+    "name": "滋賀大学経済学部附属史料館",
+    "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+    "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+    "source": "KSJ2",
+    "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+    "tourism": "museum",
+    "wikidata": "Q104720770"
+  }
+},
+{
+  "type": "way",
+  "id": 400922031,
+  "center": {
+    "lat": 35.2964229,
+    "lon": 136.1777884
+  },
+  "tags": {
+    "historic": "memorial",
+    "name": "ちかいのみはしら"
+  }
+},
+{
+  "type": "way",
+  "id": 585543144,
+  "center": {
+    "lat": 35.2748183,
+    "lon": 136.2567484
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "滋賀県護国神社",
+    "name:ja": "滋賀県護国神社",
+    "religion": "shinto",
+    "source": "Bing 2010",
+    "wikidata": "Q11564971",
+    "wikipedia": "ja:滋賀縣護國神社"
+  }
+},
+{
+  "type": "way",
+  "id": 621869867,
+  "center": {
+    "lat": 35.2646696,
+    "lon": 136.3204133
+  },
+  "tags": {
+    "historic": "ruins",
+    "name": "多賀鉱山跡"
+  }
+},
+{
+  "type": "way",
+  "id": 676059527,
+  "center": {
+    "lat": 35.2735522,
+    "lon": 136.2578482
+  },
+  "tags": {
+    "addr:block_number": "3",
+    "addr:city": "彦根市",
+    "addr:housenumber": "29",
+    "addr:postcode": "522-0075",
+    "addr:province": "滋賀県",
+    "addr:quarter": "佐和町",
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "check_date": "2025-07-04",
+    "denomination": "jodo_shinshu",
+    "fax": "+81 749 22 7888",
+    "name": "純正寺",
+    "phone": "+81 749 22 7888",
+    "religion": "buddhist",
+    "start_date": "1499"
+  }
+},
+{
+  "type": "way",
+  "id": 676059538,
+  "center": {
+    "lat": 35.2736300,
+    "lon": 136.2585080
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "茲眼院",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 676059623,
+  "center": {
+    "lat": 35.2730212,
+    "lon": 136.2603213
+  },
+  "tags": {
+    "addr:block_number": "7",
+    "addr:city": "彦根市",
+    "addr:housenumber": "19",
+    "addr:postcode": "522-0075",
+    "addr:province": "滋賀県",
+    "addr:quarter": "古沢町",
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "denomination": "shingon_shu",
+    "name": "大師寺",
+    "phone": "+81 749 22 7304",
+    "religion": "buddhist",
+    "website": "http://www.daishiji.or.jp/"
+  }
+},
+{
+  "type": "way",
+  "id": 704106551,
+  "center": {
+    "lat": 35.2719769,
+    "lon": 136.2630813
+  },
+  "tags": {
+    "building": "yes",
+    "information": "office",
+    "level": "0",
+    "name": "彦根市観光案内所",
+    "name:en": "Hikone Tourist Information",
+    "name:fr": "Hikone tourist information office",
+    "opening_hours": "Mo-Su 09:00-17:00; Dec-Jan Mo-Su 10:00-16:00",
+    "tourism": "information"
+  }
+},
+{
+  "type": "way",
+  "id": 1058296134,
+  "center": {
+    "lat": 35.2562242,
+    "lon": 136.2483079
+  },
+  "tags": {
+    "addr:city": "彦根市",
+    "addr:housenumber": "948",
+    "addr:postcode": "522-0041",
+    "addr:province": "滋賀県",
+    "addr:quarter": "平田町",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "jodo_shinshu",
+    "name": "教道寺",
+    "name:en": "Kyodo-ji Temple",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1070665202,
+  "center": {
+    "lat": 35.2707527,
+    "lon": 136.2505340
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "宗安寺",
+    "name:ja": "宗安寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1070665213,
+  "center": {
+    "lat": 35.2713621,
+    "lon": 136.2511791
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "和光寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1363513028,
+  "center": {
+    "lat": 35.2689420,
+    "lon": 136.2545394
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "長松院",
+    "name:ja": "長松院",
+    "religion": "buddhist",
+    "source": "Bing 2010",
+    "wikidata": "Q22119406",
+    "wikipedia": "ja:長松院 (彦根市)"
+  }
+},
+{
+  "type": "way",
+  "id": 1363513144,
+  "center": {
+    "lat": 35.2805526,
+    "lon": 136.2825019
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "本堂",
+    "name:en": "Main Hall",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1364510088,
+  "center": {
+    "lat": 35.2272381,
+    "lon": 136.1538014
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "見塔寺別院",
+    "name:ja": "見塔寺別院",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1369170812,
+  "center": {
+    "lat": 35.2733090,
+    "lon": 136.2589401
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "長純寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1376711305,
+  "center": {
+    "lat": 35.2749803,
+    "lon": 136.2544997
+  },
+  "tags": {
+    "building": "yes",
+    "information": "office",
+    "name": "二の丸観光案内所",
+    "tourism": "information"
+  }
+},
+{
+  "type": "way",
+  "id": 1391076383,
+  "center": {
+    "lat": 35.2856633,
+    "lon": 136.2516314
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "春日神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "way",
+  "id": 1409381841,
+  "center": {
+    "lat": 35.2736781,
+    "lon": 136.2574121
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "shrine",
+    "check_date": "2025-07-04",
+    "name": "金刀比羅神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "way",
+  "id": 1416738908,
+  "center": {
+    "lat": 35.2786845,
+    "lon": 136.2413747
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "長曽根白山神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "way",
+  "id": 1446700780,
+  "center": {
+    "lat": 35.2738331,
+    "lon": 136.2492952
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "anglican",
+    "name": "スミス記念堂",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1450178064,
+  "center": {
+    "lat": 35.2718040,
+    "lon": 136.2491343
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "明性寺",
+    "name:en": "Myoshoji Temple",
+    "name:ja": "明性寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1450184624,
+  "center": {
+    "lat": 35.2730768,
+    "lon": 136.2490554
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "法縁寺",
+    "name:en": "Hoenji Temple",
+    "name:ja": "法縁寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1451127383,
+  "center": {
+    "lat": 35.2639687,
+    "lon": 136.2563131
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "大雲寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1451327599,
+  "center": {
+    "lat": 35.2708448,
+    "lon": 136.2500525
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "江國寺",
+    "name:ja": "江國寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1451568170,
+  "center": {
+    "lat": 35.2700799,
+    "lon": 136.2514594
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "来迎寺",
+    "name:ja": "来迎寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1451568179,
+  "center": {
+    "lat": 35.2703648,
+    "lon": 136.2516772
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "願通寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1451941584,
+  "center": {
+    "lat": 35.2699697,
+    "lon": 136.2522487
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "大信寺",
+    "name:ja": "大信寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1452598751,
+  "center": {
+    "lat": 35.2693581,
+    "lon": 136.2555616
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "蓮華寺",
+    "name:ja": "蓮華寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1453286757,
+  "center": {
+    "lat": 35.2679921,
+    "lon": 136.2557852
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "千代神社",
+    "name:ja": "千代神社",
+    "religion": "shinto",
+    "source": "Bing 2010",
+    "wikidata": "Q131925932",
+    "wikipedia": "ja:千代神社"
+  }
+},
+{
+  "type": "way",
+  "id": 1453300043,
+  "center": {
+    "lat": 35.2668451,
+    "lon": 136.2550328
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "願乗寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1455743769,
+  "center": {
+    "lat": 35.2714557,
+    "lon": 136.2464698
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "花山院稲荷神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "way",
+  "id": 1457085980,
+  "center": {
+    "lat": 35.2728273,
+    "lon": 136.2465065
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "蓮成寺",
+    "name:ja": "蓮成寺",
+    "religion": "buddhist",
+    "source": "Bing 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 1458273927,
+  "center": {
+    "lat": 35.2725779,
+    "lon": 136.2438906
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "聞光寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1475237682,
+  "center": {
+    "lat": 35.2615478,
+    "lon": 136.2584826
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "最勝寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1481067265,
+  "center": {
+    "lat": 35.2836998,
+    "lon": 136.2815322
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "高良神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "way",
+  "id": 1481744117,
+  "center": {
+    "lat": 35.2867557,
+    "lon": 136.2838689
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "上品寺",
+    "religion": "buddhist"
+  }
+},
+{
+  "type": "way",
+  "id": 1485370170,
+  "center": {
+    "lat": 35.2872233,
+    "lon": 136.3053665
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "八坂神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "way",
+  "id": 1488586490,
+  "center": {
+    "lat": 35.2555857,
+    "lon": 136.2808300
+  },
+  "tags": {
+    "addr:city": "彦根市正法寺町168",
+    "addr:postcode": "522-0024",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "日吉神社",
+    "religion": "shinto"
+  }
+},
+{
+  "type": "relation",
+  "id": 722198,
+  "bounds": {
+    "minlat": 35.1901640,
+    "minlon": 136.0836998,
+    "maxlat": 35.3560088,
+    "maxlon": 136.3515970
+  },
+  "members": [
+    {
+      "type": "node",
+      "ref": 541403022,
+      "role": "label",
+      "lat": 35.2744066,
+      "lon": 136.2596539
+    },
+    {
+      "type": "way",
+      "ref": 323231249,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.1936190, "lon": 136.2160550 },
+         { "lat": 35.1937020, "lon": 136.2158850 },
+         { "lat": 35.1938250, "lon": 136.2156360 },
+         { "lat": 35.1939120, "lon": 136.2154590 },
+         { "lat": 35.1939420, "lon": 136.2153970 },
+         { "lat": 35.1939760, "lon": 136.2153280 },
+         { "lat": 35.1941460, "lon": 136.2149390 },
+         { "lat": 35.1942720, "lon": 136.2146550 },
+         { "lat": 35.1945040, "lon": 136.2141280 },
+         { "lat": 35.1946630, "lon": 136.2139100 },
+         { "lat": 35.1948220, "lon": 136.2134870 },
+         { "lat": 35.1950620, "lon": 136.2127820 },
+         { "lat": 35.1956690, "lon": 136.2118370 },
+         { "lat": 35.1959960, "lon": 136.2110500 },
+         { "lat": 35.1962990, "lon": 136.2104410 },
+         { "lat": 35.1963850, "lon": 136.2102670 },
+         { "lat": 35.1959880, "lon": 136.2098440 },
+         { "lat": 35.1963060, "lon": 136.2092990 },
+         { "lat": 35.1966940, "lon": 136.2095760 },
+         { "lat": 35.1967130, "lon": 136.2095890 },
+         { "lat": 35.1971610, "lon": 136.2087900 },
+         { "lat": 35.1972690, "lon": 136.2086340 },
+         { "lat": 35.1972880, "lon": 136.2086080 },
+         { "lat": 35.1974390, "lon": 136.2083900 },
+         { "lat": 35.1981060, "lon": 136.2070670 },
+         { "lat": 35.1987150, "lon": 136.2059990 },
+         { "lat": 35.1991290, "lon": 136.2052750 },
+         { "lat": 35.1990960, "lon": 136.2052500 },
+         { "lat": 35.1990840, "lon": 136.2052420 },
+         { "lat": 35.1989070, "lon": 136.2051090 },
+         { "lat": 35.1982690, "lon": 136.2046300 },
+         { "lat": 35.1982120, "lon": 136.2045880 },
+         { "lat": 35.1980960, "lon": 136.2045000 },
+         { "lat": 35.1970580, "lon": 136.2036430 },
+         { "lat": 35.1956510, "lon": 136.2024430 },
+         { "lat": 35.1961580, "lon": 136.2015110 },
+         { "lat": 35.1959990, "lon": 136.2013530 },
+         { "lat": 35.1954010, "lon": 136.2008710 },
+         { "lat": 35.1952040, "lon": 136.2007120 },
+         { "lat": 35.1948670, "lon": 136.2003580 },
+         { "lat": 35.1948720, "lon": 136.2002430 },
+         { "lat": 35.1948760, "lon": 136.2001750 },
+         { "lat": 35.1948870, "lon": 136.1999590 },
+         { "lat": 35.1949760, "lon": 136.1996170 },
+         { "lat": 35.1950260, "lon": 136.1994260 },
+         { "lat": 35.1953140, "lon": 136.1989170 },
+         { "lat": 35.1956570, "lon": 136.1984380 },
+         { "lat": 35.1959060, "lon": 136.1982680 },
+         { "lat": 35.1962540, "lon": 136.1981110 },
+         { "lat": 35.1965340, "lon": 136.1983410 },
+         { "lat": 35.1969910, "lon": 136.1976630 },
+         { "lat": 35.1972960, "lon": 136.1972030 },
+         { "lat": 35.1975790, "lon": 136.1967770 },
+         { "lat": 35.1979210, "lon": 136.1962790 },
+         { "lat": 35.1979710, "lon": 136.1962070 },
+         { "lat": 35.1980490, "lon": 136.1960940 },
+         { "lat": 35.1981540, "lon": 136.1959410 },
+         { "lat": 35.1980850, "lon": 136.1958570 },
+         { "lat": 35.1985520, "lon": 136.1952270 },
+         { "lat": 35.1984630, "lon": 136.1950870 },
+         { "lat": 35.1982130, "lon": 136.1946920 },
+         { "lat": 35.1983720, "lon": 136.1944260 },
+         { "lat": 35.1982530, "lon": 136.1942080 },
+         { "lat": 35.1985910, "lon": 136.1936750 },
+         { "lat": 35.1984120, "lon": 136.1934450 },
+         { "lat": 35.1982370, "lon": 136.1933420 },
+         { "lat": 35.1980840, "lon": 136.1932510 },
+         { "lat": 35.1977660, "lon": 136.1935780 },
+         { "lat": 35.1977270, "lon": 136.1935300 },
+         { "lat": 35.1977030, "lon": 136.1931500 },
+         { "lat": 35.1976970, "lon": 136.1930580 },
+         { "lat": 35.1976140, "lon": 136.1929570 },
+         { "lat": 35.1975570, "lon": 136.1928880 },
+         { "lat": 35.1975380, "lon": 136.1928640 },
+         { "lat": 35.1973390, "lon": 136.1930460 },
+         { "lat": 35.1971070, "lon": 136.1932210 },
+         { "lat": 35.1968910, "lon": 136.1932940 },
+         { "lat": 35.1967800, "lon": 136.1933310 },
+         { "lat": 35.1965410, "lon": 136.1933790 },
+         { "lat": 35.1954750, "lon": 136.1934450 },
+         { "lat": 35.1951480, "lon": 136.1934700 },
+         { "lat": 35.1948700, "lon": 136.1935790 },
+         { "lat": 35.1945820, "lon": 136.1933730 },
+         { "lat": 35.1944550, "lon": 136.1932520 },
+         { "lat": 35.1942140, "lon": 136.1930220 },
+         { "lat": 35.1936510, "lon": 136.1926640 },
+         { "lat": 35.1934350, "lon": 136.1926180 },
+         { "lat": 35.1931870, "lon": 136.1925660 },
+         { "lat": 35.1930180, "lon": 136.1923970 },
+         { "lat": 35.1927200, "lon": 136.1918280 },
+         { "lat": 35.1925910, "lon": 136.1916950 },
+         { "lat": 35.1924820, "lon": 136.1916700 },
+         { "lat": 35.1922640, "lon": 136.1918410 },
+         { "lat": 35.1920020, "lon": 136.1920460 },
+         { "lat": 35.1913860, "lon": 136.1927120 },
+         { "lat": 35.1912970, "lon": 136.1927850 },
+         { "lat": 35.1910880, "lon": 136.1926640 },
+         { "lat": 35.1909010, "lon": 136.1924540 },
+         { "lat": 35.1907550, "lon": 136.1922910 },
+         { "lat": 35.1905160, "lon": 136.1920240 },
+         { "lat": 35.1901640, "lon": 136.1916300 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258427,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2518431, "lon": 136.0852332 },
+         { "lat": 35.2500000, "lon": 136.0866327 },
+         { "lat": 35.2458631, "lon": 136.0897739 },
+         { "lat": 35.2433703, "lon": 136.0916667 },
+         { "lat": 35.2416667, "lon": 136.0929603 },
+         { "lat": 35.2360547, "lon": 136.0972215 },
+         { "lat": 35.2333333, "lon": 136.0992879 },
+         { "lat": 35.2323955, "lon": 136.1000000 },
+         { "lat": 35.2262464, "lon": 136.1046691 },
+         { "lat": 35.2250000, "lon": 136.1056155 },
+         { "lat": 35.2214206, "lon": 136.1083333 },
+         { "lat": 35.2166667, "lon": 136.1119431 },
+         { "lat": 35.2164381, "lon": 136.1121167 },
+         { "lat": 35.2164379, "lon": 136.1121170 },
+         { "lat": 35.2164380, "lon": 136.1121170 },
+         { "lat": 35.2164370, "lon": 136.1121180 },
+         { "lat": 35.2157460, "lon": 136.1135340 },
+         { "lat": 35.2154300, "lon": 136.1142520 },
+         { "lat": 35.2150440, "lon": 136.1149800 },
+         { "lat": 35.2145290, "lon": 136.1160860 },
+         { "lat": 35.2139680, "lon": 136.1175120 },
+         { "lat": 35.2135080, "lon": 136.1188040 },
+         { "lat": 35.2131060, "lon": 136.1202180 },
+         { "lat": 35.2128050, "lon": 136.1213490 },
+         { "lat": 35.2126950, "lon": 136.1219760 },
+         { "lat": 35.2126900, "lon": 136.1220700 },
+         { "lat": 35.2127050, "lon": 136.1221220 },
+         { "lat": 35.2127070, "lon": 136.1221260 },
+         { "lat": 35.2126770, "lon": 136.1225310 },
+         { "lat": 35.2126430, "lon": 136.1230070 },
+         { "lat": 35.2127090, "lon": 136.1240680 },
+         { "lat": 35.2129210, "lon": 136.1264240 },
+         { "lat": 35.2130530, "lon": 136.1280500 },
+         { "lat": 35.2131180, "lon": 136.1296140 },
+         { "lat": 35.2131190, "lon": 136.1296470 },
+         { "lat": 35.2130660, "lon": 136.1308080 },
+         { "lat": 35.2128980, "lon": 136.1320870 },
+         { "lat": 35.2125670, "lon": 136.1336360 },
+         { "lat": 35.2121310, "lon": 136.1345070 },
+         { "lat": 35.2118920, "lon": 136.1349270 },
+         { "lat": 35.2117120, "lon": 136.1353140 },
+         { "lat": 35.2116140, "lon": 136.1355240 },
+         { "lat": 35.2114160, "lon": 136.1359760 },
+         { "lat": 35.2111610, "lon": 136.1363570 },
+         { "lat": 35.2105790, "lon": 136.1369700 },
+         { "lat": 35.2098670, "lon": 136.1374910 },
+         { "lat": 35.2097850, "lon": 136.1375510 },
+         { "lat": 35.2089410, "lon": 136.1380530 },
+         { "lat": 35.2085830, "lon": 136.1383480 },
+         { "lat": 35.2084910, "lon": 136.1384240 },
+         { "lat": 35.2077240, "lon": 136.1391180 },
+         { "lat": 35.2074870, "lon": 136.1394090 },
+         { "lat": 35.2072110, "lon": 136.1397490 },
+         { "lat": 35.2070660, "lon": 136.1400390 },
+         { "lat": 35.2067880, "lon": 136.1407490 },
+         { "lat": 35.2066420, "lon": 136.1412980 },
+         { "lat": 35.2065760, "lon": 136.1419430 },
+         { "lat": 35.2065300, "lon": 136.1425530 },
+         { "lat": 35.2066750, "lon": 136.1436820 },
+         { "lat": 35.2066830, "lon": 136.1437870 },
+         { "lat": 35.2067680, "lon": 136.1449080 },
+         { "lat": 35.2067490, "lon": 136.1455310 },
+         { "lat": 35.2067410, "lon": 136.1458070 },
+         { "lat": 35.2067150, "lon": 136.1471780 },
+         { "lat": 35.2067110, "lon": 136.1472320 },
+         { "lat": 35.2066690, "lon": 136.1478720 },
+         { "lat": 35.2066620, "lon": 136.1479690 },
+         { "lat": 35.2066070, "lon": 136.1484350 },
+         { "lat": 35.2065830, "lon": 136.1486470 },
+         { "lat": 35.2062960, "lon": 136.1499000 },
+         { "lat": 35.2061200, "lon": 136.1505440 },
+         { "lat": 35.2058860, "lon": 136.1514000 },
+         { "lat": 35.2056800, "lon": 136.1522460 },
+         { "lat": 35.2056340, "lon": 136.1524320 },
+         { "lat": 35.2056070, "lon": 136.1526420 },
+         { "lat": 35.2055970, "lon": 136.1527380 },
+         { "lat": 35.2055020, "lon": 136.1535750 },
+         { "lat": 35.2054750, "lon": 136.1541720 },
+         { "lat": 35.2054850, "lon": 136.1546130 },
+         { "lat": 35.2054890, "lon": 136.1547740 },
+         { "lat": 35.2054960, "lon": 136.1550680 },
+         { "lat": 35.2055000, "lon": 136.1552620 },
+         { "lat": 35.2055150, "lon": 136.1559140 },
+         { "lat": 35.2055740, "lon": 136.1579270 },
+         { "lat": 35.2056420, "lon": 136.1588120 },
+         { "lat": 35.2057330, "lon": 136.1599760 },
+         { "lat": 35.2057990, "lon": 136.1611820 },
+         { "lat": 35.2057280, "lon": 136.1628980 },
+         { "lat": 35.2057190, "lon": 136.1631020 },
+         { "lat": 35.2056270, "lon": 136.1636660 },
+         { "lat": 35.2053980, "lon": 136.1643830 },
+         { "lat": 35.2052020, "lon": 136.1649980 },
+         { "lat": 35.2051640, "lon": 136.1651180 },
+         { "lat": 35.2049690, "lon": 136.1657190 },
+         { "lat": 35.2049360, "lon": 136.1658000 },
+         { "lat": 35.2046170, "lon": 136.1665680 },
+         { "lat": 35.2044400, "lon": 136.1669930 },
+         { "lat": 35.2037890, "lon": 136.1681690 },
+         { "lat": 35.2037250, "lon": 136.1682840 },
+         { "lat": 35.2033390, "lon": 136.1688500 },
+         { "lat": 35.2024390, "lon": 136.1698820 },
+         { "lat": 35.2011180, "lon": 136.1713300 },
+         { "lat": 35.2007470, "lon": 136.1716960 },
+         { "lat": 35.2002710, "lon": 136.1721680 },
+         { "lat": 35.1994660, "lon": 136.1729210 },
+         { "lat": 35.1991390, "lon": 136.1732270 },
+         { "lat": 35.1990190, "lon": 136.1733390 },
+         { "lat": 35.1988390, "lon": 136.1735080 },
+         { "lat": 35.1988380, "lon": 136.1735090 },
+         { "lat": 35.1985590, "lon": 136.1737580 },
+         { "lat": 35.1976300, "lon": 136.1745840 },
+         { "lat": 35.1970400, "lon": 136.1752060 },
+         { "lat": 35.1969420, "lon": 136.1753100 },
+         { "lat": 35.1965320, "lon": 136.1757460 },
+         { "lat": 35.1960650, "lon": 136.1764750 },
+         { "lat": 35.1960030, "lon": 136.1765670 },
+         { "lat": 35.1955390, "lon": 136.1772560 },
+         { "lat": 35.1954560, "lon": 136.1773790 },
+         { "lat": 35.1952020, "lon": 136.1776990 },
+         { "lat": 35.1950590, "lon": 136.1778790 },
+         { "lat": 35.1950340, "lon": 136.1779260 },
+         { "lat": 35.1948900, "lon": 136.1782040 },
+         { "lat": 35.1947410, "lon": 136.1784910 },
+         { "lat": 35.1944970, "lon": 136.1789550 },
+         { "lat": 35.1944600, "lon": 136.1790250 },
+         { "lat": 35.1941460, "lon": 136.1796210 },
+         { "lat": 35.1937980, "lon": 136.1802860 },
+         { "lat": 35.1934940, "lon": 136.1809310 },
+         { "lat": 35.1933370, "lon": 136.1813750 },
+         { "lat": 35.1932550, "lon": 136.1816090 },
+         { "lat": 35.1928450, "lon": 136.1828990 },
+         { "lat": 35.1927430, "lon": 136.1832520 },
+         { "lat": 35.1926500, "lon": 136.1835730 },
+         { "lat": 35.1925490, "lon": 136.1839200 },
+         { "lat": 35.1924400, "lon": 136.1842990 },
+         { "lat": 35.1920100, "lon": 136.1858420 },
+         { "lat": 35.1918710, "lon": 136.1863420 },
+         { "lat": 35.1916720, "lon": 136.1870570 },
+         { "lat": 35.1916690, "lon": 136.1870700 },
+         { "lat": 35.1914310, "lon": 136.1880610 },
+         { "lat": 35.1913710, "lon": 136.1882440 },
+         { "lat": 35.1911540, "lon": 136.1889030 },
+         { "lat": 35.1909940, "lon": 136.1893900 },
+         { "lat": 35.1907830, "lon": 136.1900290 },
+         { "lat": 35.1904190, "lon": 136.1910470 },
+         { "lat": 35.1903330, "lon": 136.1912870 },
+         { "lat": 35.1901640, "lon": 136.1916300 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258432,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2518431, "lon": 136.0852332 },
+         { "lat": 35.2583333, "lon": 136.0838131 },
+         { "lat": 35.2588514, "lon": 136.0836998 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258430,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2588514, "lon": 136.0836998 },
+         { "lat": 35.2583333, "lon": 136.0891231 },
+         { "lat": 35.2582184, "lon": 136.0903259 },
+         { "lat": 35.2580904, "lon": 136.0916667 },
+         { "lat": 35.2572943, "lon": 136.1000000 },
+         { "lat": 35.2568880, "lon": 136.1042537 },
+         { "lat": 35.2564983, "lon": 136.1083333 },
+         { "lat": 35.2557023, "lon": 136.1166667 },
+         { "lat": 35.2555576, "lon": 136.1181816 },
+         { "lat": 35.2558901, "lon": 136.1222267 },
+         { "lat": 35.2570516, "lon": 136.1250000 },
+         { "lat": 35.2582413, "lon": 136.1278405 },
+         { "lat": 35.2583333, "lon": 136.1280602 },
+         { "lat": 35.2605419, "lon": 136.1333333 },
+         { "lat": 35.2634785, "lon": 136.1403445 },
+         { "lat": 35.2640323, "lon": 136.1416667 },
+         { "lat": 35.2666667, "lon": 136.1479565 },
+         { "lat": 35.2675225, "lon": 136.1500000 },
+         { "lat": 35.2687156, "lon": 136.1528485 },
+         { "lat": 35.2691168, "lon": 136.1528135 },
+         { "lat": 35.2750000, "lon": 136.1522998 },
+         { "lat": 35.2806634, "lon": 136.1518053 },
+         { "lat": 35.2833333, "lon": 136.1515721 },
+         { "lat": 35.2916667, "lon": 136.1508445 },
+         { "lat": 35.2922100, "lon": 136.1507971 },
+         { "lat": 35.3000000, "lon": 136.1501169 },
+         { "lat": 35.3013385, "lon": 136.1500000 },
+         { "lat": 35.3037566, "lon": 136.1497889 },
+         { "lat": 35.3083333, "lon": 136.1493892 },
+         { "lat": 35.3153032, "lon": 136.1487807 },
+         { "lat": 35.3166667, "lon": 136.1486616 },
+         { "lat": 35.3250000, "lon": 136.1479340 },
+         { "lat": 35.3268487, "lon": 136.1477726 },
+         { "lat": 35.3333333, "lon": 136.1472064 },
+         { "lat": 35.3383959, "lon": 136.1467644 },
+         { "lat": 35.3416667, "lon": 136.1464788 },
+         { "lat": 35.3499431, "lon": 136.1457561 },
+         { "lat": 35.3500000, "lon": 136.1457823 },
+         { "lat": 35.3560088, "lon": 136.1485459 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258429,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.3560088, "lon": 136.1485459 },
+         { "lat": 35.3555967, "lon": 136.1500000 },
+         { "lat": 35.3532349, "lon": 136.1583333 },
+         { "lat": 35.3522170, "lon": 136.1619246 },
+         { "lat": 35.3508730, "lon": 136.1666667 },
+         { "lat": 35.3500000, "lon": 136.1697469 },
+         { "lat": 35.3485112, "lon": 136.1750000 },
+         { "lat": 35.3484252, "lon": 136.1753033 },
+         { "lat": 35.3461493, "lon": 136.1833333 },
+         { "lat": 35.3446334, "lon": 136.1886820 },
+         { "lat": 35.3437875, "lon": 136.1916667 },
+         { "lat": 35.3423584, "lon": 136.1967088 },
+         { "lat": 35.3416667, "lon": 136.1991398 },
+         { "lat": 35.3414219, "lon": 136.2000000 },
+         { "lat": 35.3407779, "lon": 136.2022632 },
+         { "lat": 35.3400001, "lon": 136.2050296 },
+         { "lat": 35.3390637, "lon": 136.2083333 },
+         { "lat": 35.3386536, "lon": 136.2097804 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1469668272,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.3386536, "lon": 136.2097804 },
+         { "lat": 35.3333333, "lon": 136.2127202 },
+         { "lat": 35.3323236, "lon": 136.2132782 },
+         { "lat": 35.3267689, "lon": 136.2138047 },
+         { "lat": 35.3250000, "lon": 136.2139723 },
+         { "lat": 35.3166667, "lon": 136.2147622 },
+         { "lat": 35.3152270, "lon": 136.2148986 },
+         { "lat": 35.3083333, "lon": 136.2155520 },
+         { "lat": 35.3036850, "lon": 136.2159926 },
+         { "lat": 35.3034905, "lon": 136.2166667 },
+         { "lat": 35.3032190, "lon": 136.2176079 },
+         { "lat": 35.3010866, "lon": 136.2250000 },
+         { "lat": 35.3000000, "lon": 136.2287666 },
+         { "lat": 35.2994007, "lon": 136.2308440 },
+         { "lat": 35.2986826, "lon": 136.2333333 },
+         { "lat": 35.2962786, "lon": 136.2416667 },
+         { "lat": 35.2955824, "lon": 136.2440802 },
+         { "lat": 35.2977575, "lon": 136.2500000 },
+         { "lat": 35.2992236, "lon": 136.2539900 },
+         { "lat": 35.2992242, "lon": 136.2539904 },
+         { "lat": 35.2992410, "lon": 136.2540310 },
+         { "lat": 35.2992819, "lon": 136.2541344 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1469668273,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2992819, "lon": 136.2541344 },
+         { "lat": 35.2994130, "lon": 136.2544470 },
+         { "lat": 35.2995710, "lon": 136.2548270 },
+         { "lat": 35.3000070, "lon": 136.2558800 },
+         { "lat": 35.3002520, "lon": 136.2564700 },
+         { "lat": 35.3002570, "lon": 136.2564840 },
+         { "lat": 35.3003227, "lon": 136.2566540 },
+         { "lat": 35.3003944, "lon": 136.2568393 },
+         { "lat": 35.3004500, "lon": 136.2569830 },
+         { "lat": 35.3004690, "lon": 136.2572370 },
+         { "lat": 35.3004610, "lon": 136.2574000 },
+         { "lat": 35.3004110, "lon": 136.2575260 },
+         { "lat": 35.3002150, "lon": 136.2577240 },
+         { "lat": 35.2998170, "lon": 136.2581240 },
+         { "lat": 35.2996420, "lon": 136.2583310 },
+         { "lat": 35.2995470, "lon": 136.2585380 },
+         { "lat": 35.2994880, "lon": 136.2585650 },
+         { "lat": 35.2994300, "lon": 136.2585510 },
+         { "lat": 35.2991740, "lon": 136.2583990 },
+         { "lat": 35.2990040, "lon": 136.2583620 },
+         { "lat": 35.2988260, "lon": 136.2583680 },
+         { "lat": 35.2986670, "lon": 136.2584120 },
+         { "lat": 35.2984860, "lon": 136.2585220 },
+         { "lat": 35.2983380, "lon": 136.2586540 },
+         { "lat": 35.2982360, "lon": 136.2588070 },
+         { "lat": 35.2981690, "lon": 136.2589520 },
+         { "lat": 35.2981470, "lon": 136.2590680 },
+         { "lat": 35.2981630, "lon": 136.2592100 },
+         { "lat": 35.2982470, "lon": 136.2593600 },
+         { "lat": 35.2983270, "lon": 136.2594110 },
+         { "lat": 35.2986720, "lon": 136.2594350 },
+         { "lat": 35.2987420, "lon": 136.2594620 },
+         { "lat": 35.2987700, "lon": 136.2595230 },
+         { "lat": 35.2987870, "lon": 136.2595970 },
+         { "lat": 35.2987870, "lon": 136.2596720 },
+         { "lat": 35.2987760, "lon": 136.2596910 },
+         { "lat": 35.2987530, "lon": 136.2597300 },
+         { "lat": 35.2986280, "lon": 136.2598210 },
+         { "lat": 35.2984520, "lon": 136.2598860 },
+         { "lat": 35.2983210, "lon": 136.2598790 },
+         { "lat": 35.2979760, "lon": 136.2597430 },
+         { "lat": 35.2976650, "lon": 136.2596590 },
+         { "lat": 35.2974110, "lon": 136.2596350 },
+         { "lat": 35.2968590, "lon": 136.2596310 },
+         { "lat": 35.2965130, "lon": 136.2596620 },
+         { "lat": 35.2963410, "lon": 136.2597810 },
+         { "lat": 35.2960370, "lon": 136.2600520 },
+         { "lat": 35.2958090, "lon": 136.2601680 },
+         { "lat": 35.2955360, "lon": 136.2602490 },
+         { "lat": 35.2954270, "lon": 136.2603340 },
+         { "lat": 35.2952600, "lon": 136.2605310 },
+         { "lat": 35.2951800, "lon": 136.2606330 },
+         { "lat": 35.2951130, "lon": 136.2606670 },
+         { "lat": 35.2949510, "lon": 136.2606560 },
+         { "lat": 35.2947480, "lon": 136.2605580 },
+         { "lat": 35.2946210, "lon": 136.2605310 },
+         { "lat": 35.2945300, "lon": 136.2605660 },
+         { "lat": 35.2944760, "lon": 136.2607000 },
+         { "lat": 35.2944140, "lon": 136.2610040 },
+         { "lat": 35.2944050, "lon": 136.2612770 },
+         { "lat": 35.2943730, "lon": 136.2614350 },
+         { "lat": 35.2943280, "lon": 136.2615350 },
+         { "lat": 35.2942290, "lon": 136.2616360 },
+         { "lat": 35.2941900, "lon": 136.2617200 },
+         { "lat": 35.2941720, "lon": 136.2617600 },
+         { "lat": 35.2941410, "lon": 136.2618500 },
+         { "lat": 35.2940950, "lon": 136.2619850 },
+         { "lat": 35.2939790, "lon": 136.2623200 },
+         { "lat": 35.2939960, "lon": 136.2624060 },
+         { "lat": 35.2940210, "lon": 136.2624440 },
+         { "lat": 35.2940310, "lon": 136.2624580 },
+         { "lat": 35.2940720, "lon": 136.2624830 },
+         { "lat": 35.2941310, "lon": 136.2625180 },
+         { "lat": 35.2942920, "lon": 136.2626140 },
+         { "lat": 35.2944340, "lon": 136.2628220 },
+         { "lat": 35.2946610, "lon": 136.2633110 },
+         { "lat": 35.2946610, "lon": 136.2634800 },
+         { "lat": 35.2946600, "lon": 136.2634860 },
+         { "lat": 35.2946240, "lon": 136.2636710 },
+         { "lat": 35.2946330, "lon": 136.2638880 },
+         { "lat": 35.2946840, "lon": 136.2640130 },
+         { "lat": 35.2948240, "lon": 136.2642950 },
+         { "lat": 35.2949020, "lon": 136.2644520 },
+         { "lat": 35.2949740, "lon": 136.2645500 },
+         { "lat": 35.2950040, "lon": 136.2645920 },
+         { "lat": 35.2951460, "lon": 136.2649620 },
+         { "lat": 35.2951460, "lon": 136.2651140 },
+         { "lat": 35.2951320, "lon": 136.2651440 },
+         { "lat": 35.2951180, "lon": 136.2651760 },
+         { "lat": 35.2950490, "lon": 136.2652580 },
+         { "lat": 35.2949740, "lon": 136.2653490 },
+         { "lat": 35.2949620, "lon": 136.2653630 },
+         { "lat": 35.2949330, "lon": 136.2654100 },
+         { "lat": 35.2948520, "lon": 136.2655430 },
+         { "lat": 35.2947980, "lon": 136.2656320 },
+         { "lat": 35.2946690, "lon": 136.2658440 },
+         { "lat": 35.2945810, "lon": 136.2660350 },
+         { "lat": 35.2945670, "lon": 136.2660660 },
+         { "lat": 35.2945220, "lon": 136.2662260 },
+         { "lat": 35.2944100, "lon": 136.2666230 },
+         { "lat": 35.2943650, "lon": 136.2667970 },
+         { "lat": 35.2943070, "lon": 136.2670210 },
+         { "lat": 35.2942460, "lon": 136.2672520 },
+         { "lat": 35.2942450, "lon": 136.2672640 },
+         { "lat": 35.2942080, "lon": 136.2675020 },
+         { "lat": 35.2941980, "lon": 136.2675670 },
+         { "lat": 35.2941690, "lon": 136.2677140 },
+         { "lat": 35.2941620, "lon": 136.2677450 },
+         { "lat": 35.2942290, "lon": 136.2679920 },
+         { "lat": 35.2942260, "lon": 136.2682050 },
+         { "lat": 35.2941860, "lon": 136.2683010 },
+         { "lat": 35.2941440, "lon": 136.2684020 },
+         { "lat": 35.2941440, "lon": 136.2685230 },
+         { "lat": 35.2941720, "lon": 136.2686020 },
+         { "lat": 35.2942350, "lon": 136.2686440 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1475431847,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2942350, "lon": 136.2686440 },
+         { "lat": 35.2943390, "lon": 136.2686580 },
+         { "lat": 35.2943870, "lon": 136.2686640 },
+         { "lat": 35.2945680, "lon": 136.2686720 },
+         { "lat": 35.2949190, "lon": 136.2686850 },
+         { "lat": 35.2953480, "lon": 136.2687200 },
+         { "lat": 35.2953970, "lon": 136.2687260 },
+         { "lat": 35.2959150, "lon": 136.2687930 },
+         { "lat": 35.2960100, "lon": 136.2688390 },
+         { "lat": 35.2960580, "lon": 136.2688870 },
+         { "lat": 35.2960620, "lon": 136.2689030 },
+         { "lat": 35.2960720, "lon": 136.2689460 },
+         { "lat": 35.2961030, "lon": 136.2690830 },
+         { "lat": 35.2961070, "lon": 136.2690980 },
+         { "lat": 35.2962260, "lon": 136.2693120 },
+         { "lat": 35.2964380, "lon": 136.2695160 },
+         { "lat": 35.2966730, "lon": 136.2696930 },
+         { "lat": 35.2966870, "lon": 136.2697040 },
+         { "lat": 35.2967560, "lon": 136.2698250 },
+         { "lat": 35.2967720, "lon": 136.2699190 },
+         { "lat": 35.2967630, "lon": 136.2700010 },
+         { "lat": 35.2967190, "lon": 136.2703750 },
+         { "lat": 35.2966820, "lon": 136.2709250 },
+         { "lat": 35.2966190, "lon": 136.2713450 },
+         { "lat": 35.2966030, "lon": 136.2715240 },
+         { "lat": 35.2966220, "lon": 136.2716730 },
+         { "lat": 35.2966760, "lon": 136.2718740 },
+         { "lat": 35.2967080, "lon": 136.2720980 },
+         { "lat": 35.2966920, "lon": 136.2722790 },
+         { "lat": 35.2966820, "lon": 136.2723870 },
+         { "lat": 35.2966160, "lon": 136.2726510 },
+         { "lat": 35.2965880, "lon": 136.2728740 },
+         { "lat": 35.2965860, "lon": 136.2728870 },
+         { "lat": 35.2965040, "lon": 136.2734560 },
+         { "lat": 35.2964660, "lon": 136.2737540 },
+         { "lat": 35.2964570, "lon": 136.2739090 },
+         { "lat": 35.2964760, "lon": 136.2742240 },
+         { "lat": 35.2966030, "lon": 136.2745910 },
+         { "lat": 35.2966120, "lon": 136.2747120 },
+         { "lat": 35.2965980, "lon": 136.2748550 },
+         { "lat": 35.2965900, "lon": 136.2748810 },
+         { "lat": 35.2965535, "lon": 136.2749994 },
+         { "lat": 35.2965480, "lon": 136.2750170 },
+         { "lat": 35.2965130, "lon": 136.2751310 },
+         { "lat": 35.2964940, "lon": 136.2751930 },
+         { "lat": 35.2964455, "lon": 136.2753283 },
+         { "lat": 35.2964000, "lon": 136.2754550 },
+         { "lat": 35.2963970, "lon": 136.2754640 },
+         { "lat": 35.2963780, "lon": 136.2759960 },
+         { "lat": 35.2963590, "lon": 136.2773620 },
+         { "lat": 35.2963270, "lon": 136.2795390 },
+         { "lat": 35.2963940, "lon": 136.2795920 },
+         { "lat": 35.2971030, "lon": 136.2796510 },
+         { "lat": 35.2971510, "lon": 136.2796910 },
+         { "lat": 35.2971560, "lon": 136.2797790 },
+         { "lat": 35.2971520, "lon": 136.2803270 },
+         { "lat": 35.2971510, "lon": 136.2804780 },
+         { "lat": 35.2970700, "lon": 136.2822440 },
+         { "lat": 35.2970670, "lon": 136.2823560 },
+         { "lat": 35.2970550, "lon": 136.2827870 },
+         { "lat": 35.2970545, "lon": 136.2828058 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1475531302,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2970545, "lon": 136.2828058 },
+         { "lat": 35.2970220, "lon": 136.2839600 },
+         { "lat": 35.2969720, "lon": 136.2850160 },
+         { "lat": 35.2969640, "lon": 136.2851860 },
+         { "lat": 35.2969810, "lon": 136.2855740 },
+         { "lat": 35.2969860, "lon": 136.2856980 },
+         { "lat": 35.2969890, "lon": 136.2857660 },
+         { "lat": 35.2969940, "lon": 136.2858830 },
+         { "lat": 35.2970210, "lon": 136.2860690 },
+         { "lat": 35.2970280, "lon": 136.2861200 },
+         { "lat": 35.2970580, "lon": 136.2862120 },
+         { "lat": 35.2971360, "lon": 136.2862530 },
+         { "lat": 35.2971380, "lon": 136.2862540 },
+         { "lat": 35.2974620, "lon": 136.2864140 },
+         { "lat": 35.2976750, "lon": 136.2864770 },
+         { "lat": 35.2979610, "lon": 136.2865320 },
+         { "lat": 35.2982940, "lon": 136.2865290 },
+         { "lat": 35.2985010, "lon": 136.2864960 },
+         { "lat": 35.2987190, "lon": 136.2864640 },
+         { "lat": 35.2987510, "lon": 136.2864660 },
+         { "lat": 35.2990790, "lon": 136.2864820 },
+         { "lat": 35.2992220, "lon": 136.2865190 },
+         { "lat": 35.2992220, "lon": 136.2865200 },
+         { "lat": 35.2992790, "lon": 136.2865800 },
+         { "lat": 35.2994960, "lon": 136.2867800 },
+         { "lat": 35.2997160, "lon": 136.2869460 },
+         { "lat": 35.2999570, "lon": 136.2870270 },
+         { "lat": 35.3002840, "lon": 136.2871050 },
+         { "lat": 35.3003010, "lon": 136.2871090 },
+         { "lat": 35.3004050, "lon": 136.2871440 },
+         { "lat": 35.3005020, "lon": 136.2871770 },
+         { "lat": 35.3006050, "lon": 136.2872400 },
+         { "lat": 35.3007050, "lon": 136.2873020 },
+         { "lat": 35.3007420, "lon": 136.2873380 },
+         { "lat": 35.3009670, "lon": 136.2875600 },
+         { "lat": 35.3009860, "lon": 136.2875840 },
+         { "lat": 35.3011290, "lon": 136.2877610 },
+         { "lat": 35.3011470, "lon": 136.2877830 },
+         { "lat": 35.3013450, "lon": 136.2879730 },
+         { "lat": 35.3015330, "lon": 136.2881540 },
+         { "lat": 35.3015520, "lon": 136.2881720 },
+         { "lat": 35.3015740, "lon": 136.2882300 },
+         { "lat": 35.3015630, "lon": 136.2883550 },
+         { "lat": 35.3014940, "lon": 136.2886260 },
+         { "lat": 35.3013660, "lon": 136.2890030 },
+         { "lat": 35.3013150, "lon": 136.2891010 },
+         { "lat": 35.3012630, "lon": 136.2892010 },
+         { "lat": 35.3011550, "lon": 136.2894070 },
+         { "lat": 35.3011360, "lon": 136.2894460 },
+         { "lat": 35.3010290, "lon": 136.2895960 },
+         { "lat": 35.3009110, "lon": 136.2897620 },
+         { "lat": 35.3008990, "lon": 136.2897790 },
+         { "lat": 35.3005660, "lon": 136.2902150 },
+         { "lat": 35.3005080, "lon": 136.2902820 },
+         { "lat": 35.3004040, "lon": 136.2904020 },
+         { "lat": 35.3002350, "lon": 136.2905070 },
+         { "lat": 35.3000490, "lon": 136.2906390 },
+         { "lat": 35.3000300, "lon": 136.2906520 },
+         { "lat": 35.2999460, "lon": 136.2908360 },
+         { "lat": 35.2998490, "lon": 136.2910860 },
+         { "lat": 35.2997070, "lon": 136.2912520 },
+         { "lat": 35.2995770, "lon": 136.2913410 },
+         { "lat": 35.2995540, "lon": 136.2913570 },
+         { "lat": 35.2994430, "lon": 136.2914860 },
+         { "lat": 35.2994350, "lon": 136.2915160 },
+         { "lat": 35.2993870, "lon": 136.2917020 },
+         { "lat": 35.2993440, "lon": 136.2918630 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1475534830,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2993440, "lon": 136.2918630 },
+         { "lat": 35.2992930, "lon": 136.2920530 },
+         { "lat": 35.2992400, "lon": 136.2922480 },
+         { "lat": 35.2991620, "lon": 136.2925080 },
+         { "lat": 35.2990780, "lon": 136.2927860 },
+         { "lat": 35.2990240, "lon": 136.2929650 },
+         { "lat": 35.2990230, "lon": 136.2929850 },
+         { "lat": 35.2990160, "lon": 136.2931680 },
+         { "lat": 35.2990180, "lon": 136.2931800 },
+         { "lat": 35.2990430, "lon": 136.2933040 },
+         { "lat": 35.2990760, "lon": 136.2933960 },
+         { "lat": 35.2991020, "lon": 136.2934700 },
+         { "lat": 35.2993370, "lon": 136.2939070 },
+         { "lat": 35.2993850, "lon": 136.2940740 },
+         { "lat": 35.2994240, "lon": 136.2941620 },
+         { "lat": 35.2995050, "lon": 136.2943500 },
+         { "lat": 35.2995270, "lon": 136.2943990 },
+         { "lat": 35.2995900, "lon": 136.2944730 },
+         { "lat": 35.2996710, "lon": 136.2945680 },
+         { "lat": 35.2998380, "lon": 136.2946320 },
+         { "lat": 35.3000370, "lon": 136.2946380 },
+         { "lat": 35.3000990, "lon": 136.2946390 },
+         { "lat": 35.3002960, "lon": 136.2946260 },
+         { "lat": 35.3004930, "lon": 136.2946740 },
+         { "lat": 35.3005650, "lon": 136.2947120 },
+         { "lat": 35.3006540, "lon": 136.2947830 },
+         { "lat": 35.3006730, "lon": 136.2949210 },
+         { "lat": 35.3006650, "lon": 136.2949920 },
+         { "lat": 35.3006480, "lon": 136.2951380 },
+         { "lat": 35.3005790, "lon": 136.2953570 },
+         { "lat": 35.3005620, "lon": 136.2954080 },
+         { "lat": 35.3004430, "lon": 136.2955340 },
+         { "lat": 35.3002820, "lon": 136.2957180 },
+         { "lat": 35.3002660, "lon": 136.2957370 },
+         { "lat": 35.3001190, "lon": 136.2959150 },
+         { "lat": 35.2999650, "lon": 136.2961030 },
+         { "lat": 35.2998850, "lon": 136.2961900 },
+         { "lat": 35.2996600, "lon": 136.2964340 },
+         { "lat": 35.2994090, "lon": 136.2966410 },
+         { "lat": 35.2993070, "lon": 136.2966690 },
+         { "lat": 35.2990770, "lon": 136.2966450 },
+         { "lat": 35.2989650, "lon": 136.2966720 },
+         { "lat": 35.2989380, "lon": 136.2966790 },
+         { "lat": 35.2989050, "lon": 136.2967020 },
+         { "lat": 35.2988580, "lon": 136.2967360 },
+         { "lat": 35.2987910, "lon": 136.2968590 },
+         { "lat": 35.2987880, "lon": 136.2968650 },
+         { "lat": 35.2987990, "lon": 136.2970410 },
+         { "lat": 35.2988800, "lon": 136.2975460 },
+         { "lat": 35.2989250, "lon": 136.2977300 },
+         { "lat": 35.2989660, "lon": 136.2978920 },
+         { "lat": 35.2991010, "lon": 136.2981590 },
+         { "lat": 35.2991940, "lon": 136.2982870 },
+         { "lat": 35.2993310, "lon": 136.2984770 },
+         { "lat": 35.2994450, "lon": 136.2986350 },
+         { "lat": 35.2995080, "lon": 136.2987210 },
+         { "lat": 35.2995240, "lon": 136.2987430 },
+         { "lat": 35.2996360, "lon": 136.2988890 },
+         { "lat": 35.2997170, "lon": 136.2989950 },
+         { "lat": 35.2997680, "lon": 136.2990620 },
+         { "lat": 35.2998160, "lon": 136.2991240 },
+         { "lat": 35.2998580, "lon": 136.2991660 },
+         { "lat": 35.2999520, "lon": 136.2992590 },
+         { "lat": 35.3001580, "lon": 136.2994630 },
+         { "lat": 35.3003490, "lon": 136.2997100 },
+         { "lat": 35.3004990, "lon": 136.2998870 },
+         { "lat": 35.3005250, "lon": 136.2999170 },
+         { "lat": 35.3007160, "lon": 136.3001280 },
+         { "lat": 35.3007250, "lon": 136.3001370 },
+         { "lat": 35.3008610, "lon": 136.3002790 },
+         { "lat": 35.3010170, "lon": 136.3004640 },
+         { "lat": 35.3010610, "lon": 136.3005170 },
+         { "lat": 35.3012610, "lon": 136.3006220 },
+         { "lat": 35.3012660, "lon": 136.3006230 },
+         { "lat": 35.3014830, "lon": 136.3006760 },
+         { "lat": 35.3015380, "lon": 136.3006810 },
+         { "lat": 35.3017270, "lon": 136.3006990 },
+         { "lat": 35.3017660, "lon": 136.3007030 },
+         { "lat": 35.3018860, "lon": 136.3007540 },
+         { "lat": 35.3019240, "lon": 136.3007800 },
+         { "lat": 35.3019750, "lon": 136.3008150 },
+         { "lat": 35.3020200, "lon": 136.3008690 },
+         { "lat": 35.3020410, "lon": 136.3008960 },
+         { "lat": 35.3020770, "lon": 136.3010160 },
+         { "lat": 35.3020710, "lon": 136.3010800 },
+         { "lat": 35.3020710, "lon": 136.3010810 },
+         { "lat": 35.3019910, "lon": 136.3011810 },
+         { "lat": 35.3019170, "lon": 136.3012220 },
+         { "lat": 35.3017140, "lon": 136.3013340 },
+         { "lat": 35.3013170, "lon": 136.3014320 },
+         { "lat": 35.3010740, "lon": 136.3015670 },
+         { "lat": 35.3010150, "lon": 136.3015860 },
+         { "lat": 35.3009130, "lon": 136.3016180 },
+         { "lat": 35.3007770, "lon": 136.3015910 },
+         { "lat": 35.3005620, "lon": 136.3014020 },
+         { "lat": 35.3004490, "lon": 136.3013020 },
+         { "lat": 35.3001970, "lon": 136.3011130 },
+         { "lat": 35.3000290, "lon": 136.3010490 },
+         { "lat": 35.2999220, "lon": 136.3010080 },
+         { "lat": 35.2998420, "lon": 136.3010050 },
+         { "lat": 35.2995930, "lon": 136.3009950 },
+         { "lat": 35.2995820, "lon": 136.3009920 },
+         { "lat": 35.2995630, "lon": 136.3009870 },
+         { "lat": 35.2995380, "lon": 136.3009810 },
+         { "lat": 35.2994190, "lon": 136.3009510 },
+         { "lat": 35.2994180, "lon": 136.3009510 },
+         { "lat": 35.2993800, "lon": 136.3009380 },
+         { "lat": 35.2993470, "lon": 136.3009270 },
+         { "lat": 35.2992840, "lon": 136.3009060 },
+         { "lat": 35.2991950, "lon": 136.3008770 },
+         { "lat": 35.2991880, "lon": 136.3008740 },
+         { "lat": 35.2991440, "lon": 136.3008600 },
+         { "lat": 35.2991330, "lon": 136.3008560 },
+         { "lat": 35.2990400, "lon": 136.3008250 },
+         { "lat": 35.2990320, "lon": 136.3008230 },
+         { "lat": 35.2990100, "lon": 136.3008150 },
+         { "lat": 35.2988550, "lon": 136.3007980 },
+         { "lat": 35.2987070, "lon": 136.3007820 },
+         { "lat": 35.2985590, "lon": 136.3007930 },
+         { "lat": 35.2985540, "lon": 136.3007940 },
+         { "lat": 35.2984710, "lon": 136.3008000 },
+         { "lat": 35.2984040, "lon": 136.3008050 },
+         { "lat": 35.2982210, "lon": 136.3008260 },
+         { "lat": 35.2982190, "lon": 136.3008270 },
+         { "lat": 35.2980310, "lon": 136.3009070 },
+         { "lat": 35.2979710, "lon": 136.3009330 },
+         { "lat": 35.2979270, "lon": 136.3009520 },
+         { "lat": 35.2979200, "lon": 136.3009540 },
+         { "lat": 35.2978640, "lon": 136.3009950 },
+         { "lat": 35.2978000, "lon": 136.3010410 },
+         { "lat": 35.2977980, "lon": 136.3010420 },
+         { "lat": 35.2976760, "lon": 136.3011300 },
+         { "lat": 35.2976650, "lon": 136.3011440 },
+         { "lat": 35.2975990, "lon": 136.3012280 },
+         { "lat": 35.2975460, "lon": 136.3013230 },
+         { "lat": 35.2975530, "lon": 136.3015880 },
+         { "lat": 35.2975540, "lon": 136.3016410 },
+         { "lat": 35.2975360, "lon": 136.3017110 },
+         { "lat": 35.2974980, "lon": 136.3018520 },
+         { "lat": 35.2974470, "lon": 136.3019510 },
+         { "lat": 35.2974320, "lon": 136.3019810 },
+         { "lat": 35.2973340, "lon": 136.3020520 },
+         { "lat": 35.2971260, "lon": 136.3021330 },
+         { "lat": 35.2969390, "lon": 136.3021980 },
+         { "lat": 35.2967230, "lon": 136.3023230 },
+         { "lat": 35.2967060, "lon": 136.3023360 },
+         { "lat": 35.2964710, "lon": 136.3025090 },
+         { "lat": 35.2963060, "lon": 136.3025730 },
+         { "lat": 35.2962370, "lon": 136.3026010 },
+         { "lat": 35.2960570, "lon": 136.3026010 },
+         { "lat": 35.2958810, "lon": 136.3026110 },
+         { "lat": 35.2958120, "lon": 136.3026440 },
+         { "lat": 35.2957420, "lon": 136.3028040 },
+         { "lat": 35.2956370, "lon": 136.3030710 },
+         { "lat": 35.2954970, "lon": 136.3033900 },
+         { "lat": 35.2954750, "lon": 136.3034260 },
+         { "lat": 35.2953890, "lon": 136.3035660 },
+         { "lat": 35.2951700, "lon": 136.3037390 },
+         { "lat": 35.2951540, "lon": 136.3037790 },
+         { "lat": 35.2951170, "lon": 136.3038740 },
+         { "lat": 35.2951090, "lon": 136.3039350 },
+         { "lat": 35.2950670, "lon": 136.3042360 },
+         { "lat": 35.2950530, "lon": 136.3043090 },
+         { "lat": 35.2950030, "lon": 136.3045660 },
+         { "lat": 35.2949350, "lon": 136.3047850 },
+         { "lat": 35.2949200, "lon": 136.3048330 },
+         { "lat": 35.2948150, "lon": 136.3049140 },
+         { "lat": 35.2947370, "lon": 136.3049380 },
+         { "lat": 35.2944970, "lon": 136.3049320 },
+         { "lat": 35.2943080, "lon": 136.3050260 },
+         { "lat": 35.2942190, "lon": 136.3051380 },
+         { "lat": 35.2941600, "lon": 136.3052800 },
+         { "lat": 35.2941140, "lon": 136.3053880 },
+         { "lat": 35.2941140, "lon": 136.3055270 },
+         { "lat": 35.2941340, "lon": 136.3056960 },
+         { "lat": 35.2941810, "lon": 136.3058250 },
+         { "lat": 35.2942470, "lon": 136.3059740 },
+         { "lat": 35.2942690, "lon": 136.3060950 },
+         { "lat": 35.2942620, "lon": 136.3062430 },
+         { "lat": 35.2942920, "lon": 136.3064790 },
+         { "lat": 35.2943640, "lon": 136.3066380 },
+         { "lat": 35.2944220, "lon": 136.3068750 },
+         { "lat": 35.2944810, "lon": 136.3072410 },
+         { "lat": 35.2945110, "lon": 136.3074250 },
+         { "lat": 35.2945250, "lon": 136.3075100 },
+         { "lat": 35.2945090, "lon": 136.3077230 },
+         { "lat": 35.2944250, "lon": 136.3080440 },
+         { "lat": 35.2944020, "lon": 136.3081490 },
+         { "lat": 35.2943670, "lon": 136.3083010 },
+         { "lat": 35.2943660, "lon": 136.3083720 },
+         { "lat": 35.2943640, "lon": 136.3084310 },
+         { "lat": 35.2943620, "lon": 136.3085590 },
+         { "lat": 35.2943640, "lon": 136.3085950 },
+         { "lat": 35.2943750, "lon": 136.3087570 },
+         { "lat": 35.2943840, "lon": 136.3088770 },
+         { "lat": 35.2943950, "lon": 136.3089290 },
+         { "lat": 35.2944490, "lon": 136.3091820 },
+         { "lat": 35.2944620, "lon": 136.3092430 },
+         { "lat": 35.2944700, "lon": 136.3094120 },
+         { "lat": 35.2944470, "lon": 136.3095290 },
+         { "lat": 35.2943730, "lon": 136.3096790 },
+         { "lat": 35.2943390, "lon": 136.3097490 },
+         { "lat": 35.2941640, "lon": 136.3099820 },
+         { "lat": 35.2940200, "lon": 136.3102160 },
+         { "lat": 35.2939890, "lon": 136.3102800 },
+         { "lat": 35.2939360, "lon": 136.3103890 },
+         { "lat": 35.2938550, "lon": 136.3106790 },
+         { "lat": 35.2938360, "lon": 136.3107440 },
+         { "lat": 35.2937700, "lon": 136.3109520 },
+         { "lat": 35.2937640, "lon": 136.3109710 },
+         { "lat": 35.2936780, "lon": 136.3111200 },
+         { "lat": 35.2936330, "lon": 136.3111790 },
+         { "lat": 35.2934950, "lon": 136.3113610 },
+         { "lat": 35.2934750, "lon": 136.3113930 },
+         { "lat": 35.2934140, "lon": 136.3114890 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1476157155,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2934140, "lon": 136.3114890 },
+         { "lat": 35.2934140, "lon": 136.3116720 },
+         { "lat": 35.2934420, "lon": 136.3118180 },
+         { "lat": 35.2934670, "lon": 136.3118730 },
+         { "lat": 35.2935110, "lon": 136.3119730 },
+         { "lat": 35.2935360, "lon": 136.3121590 },
+         { "lat": 35.2935170, "lon": 136.3123940 },
+         { "lat": 35.2934730, "lon": 136.3125580 },
+         { "lat": 35.2934610, "lon": 136.3126010 },
+         { "lat": 35.2932850, "lon": 136.3130550 },
+         { "lat": 35.2932780, "lon": 136.3130710 },
+         { "lat": 35.2931260, "lon": 136.3134160 },
+         { "lat": 35.2930220, "lon": 136.3137090 },
+         { "lat": 35.2928000, "lon": 136.3139690 },
+         { "lat": 35.2923630, "lon": 136.3143760 },
+         { "lat": 35.2923570, "lon": 136.3143830 },
+         { "lat": 35.2922190, "lon": 136.3145320 },
+         { "lat": 35.2920420, "lon": 136.3147240 },
+         { "lat": 35.2919240, "lon": 136.3148630 },
+         { "lat": 35.2917470, "lon": 136.3150700 },
+         { "lat": 35.2916900, "lon": 136.3151370 },
+         { "lat": 35.2915170, "lon": 136.3153380 },
+         { "lat": 35.2913070, "lon": 136.3154260 },
+         { "lat": 35.2912500, "lon": 136.3154660 },
+         { "lat": 35.2909700, "lon": 136.3156600 },
+         { "lat": 35.2908240, "lon": 136.3157610 },
+         { "lat": 35.2908050, "lon": 136.3157790 },
+         { "lat": 35.2907030, "lon": 136.3158730 },
+         { "lat": 35.2905290, "lon": 136.3160350 },
+         { "lat": 35.2904960, "lon": 136.3160660 },
+         { "lat": 35.2903520, "lon": 136.3161990 },
+         { "lat": 35.2902580, "lon": 136.3162870 },
+         { "lat": 35.2899550, "lon": 136.3165130 },
+         { "lat": 35.2898380, "lon": 136.3166160 },
+         { "lat": 35.2896690, "lon": 136.3167630 },
+         { "lat": 35.2896610, "lon": 136.3167710 },
+         { "lat": 35.2896270, "lon": 136.3167820 },
+         { "lat": 35.2895180, "lon": 136.3168180 },
+         { "lat": 35.2893780, "lon": 136.3168910 },
+         { "lat": 35.2892850, "lon": 136.3169400 },
+         { "lat": 35.2890790, "lon": 136.3171220 },
+         { "lat": 35.2890550, "lon": 136.3171430 },
+         { "lat": 35.2888340, "lon": 136.3173670 },
+         { "lat": 35.2887580, "lon": 136.3174440 },
+         { "lat": 35.2886790, "lon": 136.3174990 },
+         { "lat": 35.2886100, "lon": 136.3175160 },
+         { "lat": 35.2884740, "lon": 136.3175500 },
+         { "lat": 35.2881790, "lon": 136.3175800 },
+         { "lat": 35.2881750, "lon": 136.3175800 },
+         { "lat": 35.2877720, "lon": 136.3175770 },
+         { "lat": 35.2877390, "lon": 136.3175740 },
+         { "lat": 35.2874120, "lon": 136.3175500 },
+         { "lat": 35.2869790, "lon": 136.3175870 },
+         { "lat": 35.2867390, "lon": 136.3175900 },
+         { "lat": 35.2866450, "lon": 136.3175910 },
+         { "lat": 35.2863920, "lon": 136.3175500 },
+         { "lat": 35.2863400, "lon": 136.3175290 },
+         { "lat": 35.2862100, "lon": 136.3174790 },
+         { "lat": 35.2859660, "lon": 136.3173360 },
+         { "lat": 35.2859510, "lon": 136.3173270 },
+         { "lat": 35.2858510, "lon": 136.3173270 },
+         { "lat": 35.2858100, "lon": 136.3173450 },
+         { "lat": 35.2856290, "lon": 136.3174280 },
+         { "lat": 35.2856120, "lon": 136.3174440 },
+         { "lat": 35.2854670, "lon": 136.3175810 },
+         { "lat": 35.2854210, "lon": 136.3176540 },
+         { "lat": 35.2853840, "lon": 136.3177130 },
+         { "lat": 35.2853590, "lon": 136.3178720 },
+         { "lat": 35.2853370, "lon": 136.3181560 },
+         { "lat": 35.2853320, "lon": 136.3181670 },
+         { "lat": 35.2853010, "lon": 136.3182510 },
+         { "lat": 35.2852600, "lon": 136.3183420 },
+         { "lat": 35.2852280, "lon": 136.3184130 },
+         { "lat": 35.2851690, "lon": 136.3184850 },
+         { "lat": 35.2851110, "lon": 136.3185560 },
+         { "lat": 35.2850430, "lon": 136.3186020 },
+         { "lat": 35.2849360, "lon": 136.3186740 },
+         { "lat": 35.2847750, "lon": 136.3186950 },
+         { "lat": 35.2841690, "lon": 136.3186920 },
+         { "lat": 35.2838010, "lon": 136.3186980 },
+         { "lat": 35.2835530, "lon": 136.3187580 },
+         { "lat": 35.2833320, "lon": 136.3188140 },
+         { "lat": 35.2829590, "lon": 136.3188310 },
+         { "lat": 35.2829580, "lon": 136.3188310 },
+         { "lat": 35.2824930, "lon": 136.3188400 },
+         { "lat": 35.2820820, "lon": 136.3188480 },
+         { "lat": 35.2820120, "lon": 136.3188490 },
+         { "lat": 35.2817300, "lon": 136.3188490 },
+         { "lat": 35.2816100, "lon": 136.3188490 },
+         { "lat": 35.2816040, "lon": 136.3188490 },
+         { "lat": 35.2815170, "lon": 136.3188450 },
+         { "lat": 35.2813720, "lon": 136.3188390 },
+         { "lat": 35.2812720, "lon": 136.3188490 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1476157890,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2812720, "lon": 136.3188490 },
+         { "lat": 35.2810510, "lon": 136.3188710 },
+         { "lat": 35.2809780, "lon": 136.3188790 },
+         { "lat": 35.2808970, "lon": 136.3188920 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1476157562,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2808970, "lon": 136.3188920 },
+         { "lat": 35.2808800, "lon": 136.3189570 },
+         { "lat": 35.2809120, "lon": 136.3191250 },
+         { "lat": 35.2809740, "lon": 136.3194440 },
+         { "lat": 35.2809780, "lon": 136.3195600 },
+         { "lat": 35.2809780, "lon": 136.3195700 },
+         { "lat": 35.2809400, "lon": 136.3198480 },
+         { "lat": 35.2809340, "lon": 136.3198870 },
+         { "lat": 35.2808950, "lon": 136.3200690 },
+         { "lat": 35.2808710, "lon": 136.3201840 },
+         { "lat": 35.2808490, "lon": 136.3202580 },
+         { "lat": 35.2808160, "lon": 136.3203700 },
+         { "lat": 35.2807430, "lon": 136.3206180 },
+         { "lat": 35.2807300, "lon": 136.3206480 },
+         { "lat": 35.2806930, "lon": 136.3207330 },
+         { "lat": 35.2806430, "lon": 136.3208460 },
+         { "lat": 35.2806030, "lon": 136.3209370 },
+         { "lat": 35.2805350, "lon": 136.3210910 },
+         { "lat": 35.2804590, "lon": 136.3212650 },
+         { "lat": 35.2804390, "lon": 136.3213150 },
+         { "lat": 35.2803140, "lon": 136.3216250 },
+         { "lat": 35.2802130, "lon": 136.3218750 },
+         { "lat": 35.2800090, "lon": 136.3223930 },
+         { "lat": 35.2799560, "lon": 136.3225610 },
+         { "lat": 35.2799360, "lon": 136.3226230 },
+         { "lat": 35.2798800, "lon": 136.3228450 },
+         { "lat": 35.2798570, "lon": 136.3229370 },
+         { "lat": 35.2798530, "lon": 136.3230860 },
+         { "lat": 35.2798530, "lon": 136.3231090 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258813,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2798530, "lon": 136.3231090 },
+         { "lat": 35.2798940, "lon": 136.3231860 },
+         { "lat": 35.2799450, "lon": 136.3232090 },
+         { "lat": 35.2800930, "lon": 136.3232750 },
+         { "lat": 35.2801160, "lon": 136.3232850 },
+         { "lat": 35.2803000, "lon": 136.3233280 },
+         { "lat": 35.2803960, "lon": 136.3233500 },
+         { "lat": 35.2805170, "lon": 136.3234110 },
+         { "lat": 35.2807100, "lon": 136.3235090 },
+         { "lat": 35.2808510, "lon": 136.3235800 },
+         { "lat": 35.2809080, "lon": 136.3236160 },
+         { "lat": 35.2810790, "lon": 136.3237220 },
+         { "lat": 35.2811950, "lon": 136.3237830 },
+         { "lat": 35.2813790, "lon": 136.3238810 },
+         { "lat": 35.2814420, "lon": 136.3239170 },
+         { "lat": 35.2815040, "lon": 136.3239530 },
+         { "lat": 35.2816790, "lon": 136.3241000 },
+         { "lat": 35.2817840, "lon": 136.3242310 },
+         { "lat": 35.2819160, "lon": 136.3243960 },
+         { "lat": 35.2820930, "lon": 136.3245560 },
+         { "lat": 35.2822820, "lon": 136.3247140 },
+         { "lat": 35.2823630, "lon": 136.3247810 },
+         { "lat": 35.2824680, "lon": 136.3248410 },
+         { "lat": 35.2825790, "lon": 136.3249060 },
+         { "lat": 35.2825900, "lon": 136.3249120 },
+         { "lat": 35.2827620, "lon": 136.3249790 },
+         { "lat": 35.2828010, "lon": 136.3250040 },
+         { "lat": 35.2829250, "lon": 136.3250820 },
+         { "lat": 35.2829720, "lon": 136.3251110 },
+         { "lat": 35.2829750, "lon": 136.3251130 },
+         { "lat": 35.2831920, "lon": 136.3252460 },
+         { "lat": 35.2832570, "lon": 136.3252850 },
+         { "lat": 35.2832820, "lon": 136.3253010 },
+         { "lat": 35.2833800, "lon": 136.3253680 },
+         { "lat": 35.2835140, "lon": 136.3254590 },
+         { "lat": 35.2837170, "lon": 136.3255640 },
+         { "lat": 35.2837380, "lon": 136.3255740 },
+         { "lat": 35.2837760, "lon": 136.3255880 },
+         { "lat": 35.2839180, "lon": 136.3256390 },
+         { "lat": 35.2839410, "lon": 136.3256420 },
+         { "lat": 35.2840170, "lon": 136.3256540 },
+         { "lat": 35.2841120, "lon": 136.3256690 },
+         { "lat": 35.2842880, "lon": 136.3256950 },
+         { "lat": 35.2843910, "lon": 136.3257110 },
+         { "lat": 35.2844850, "lon": 136.3257140 },
+         { "lat": 35.2847020, "lon": 136.3257220 },
+         { "lat": 35.2847730, "lon": 136.3257100 },
+         { "lat": 35.2850230, "lon": 136.3256670 },
+         { "lat": 35.2850940, "lon": 136.3256550 },
+         { "lat": 35.2855100, "lon": 136.3255260 },
+         { "lat": 35.2856870, "lon": 136.3254870 },
+         { "lat": 35.2858650, "lon": 136.3254480 },
+         { "lat": 35.2860130, "lon": 136.3253890 },
+         { "lat": 35.2861770, "lon": 136.3252960 },
+         { "lat": 35.2863300, "lon": 136.3251050 },
+         { "lat": 35.2863730, "lon": 136.3250520 },
+         { "lat": 35.2865190, "lon": 136.3249280 },
+         { "lat": 35.2866710, "lon": 136.3248650 },
+         { "lat": 35.2867180, "lon": 136.3248450 },
+         { "lat": 35.2869260, "lon": 136.3248020 },
+         { "lat": 35.2869840, "lon": 136.3247980 },
+         { "lat": 35.2871070, "lon": 136.3247890 },
+         { "lat": 35.2873200, "lon": 136.3248080 },
+         { "lat": 35.2874210, "lon": 136.3248170 },
+         { "lat": 35.2875520, "lon": 136.3248290 },
+         { "lat": 35.2877890, "lon": 136.3248910 },
+         { "lat": 35.2878800, "lon": 136.3249320 },
+         { "lat": 35.2880800, "lon": 136.3250220 },
+         { "lat": 35.2881040, "lon": 136.3250380 },
+         { "lat": 35.2883650, "lon": 136.3252060 },
+         { "lat": 35.2884730, "lon": 136.3252760 },
+         { "lat": 35.2885780, "lon": 136.3253540 },
+         { "lat": 35.2886740, "lon": 136.3254250 },
+         { "lat": 35.2887020, "lon": 136.3254560 },
+         { "lat": 35.2888410, "lon": 136.3256110 },
+         { "lat": 35.2889500, "lon": 136.3257330 },
+         { "lat": 35.2890260, "lon": 136.3258180 },
+         { "lat": 35.2890310, "lon": 136.3258240 },
+         { "lat": 35.2891740, "lon": 136.3259830 },
+         { "lat": 35.2893940, "lon": 136.3262280 },
+         { "lat": 35.2894010, "lon": 136.3262360 },
+         { "lat": 35.2895720, "lon": 136.3263840 },
+         { "lat": 35.2897040, "lon": 136.3264560 },
+         { "lat": 35.2898430, "lon": 136.3264560 },
+         { "lat": 35.2898510, "lon": 136.3264560 },
+         { "lat": 35.2904020, "lon": 136.3263280 },
+         { "lat": 35.2905030, "lon": 136.3263730 },
+         { "lat": 35.2905170, "lon": 136.3263880 },
+         { "lat": 35.2905640, "lon": 136.3264380 },
+         { "lat": 35.2906020, "lon": 136.3266060 },
+         { "lat": 35.2906310, "lon": 136.3267140 },
+         { "lat": 35.2906458, "lon": 136.3267692 },
+         { "lat": 35.2906513, "lon": 136.3267899 },
+         { "lat": 35.2906660, "lon": 136.3268450 },
+         { "lat": 35.2907070, "lon": 136.3269970 },
+         { "lat": 35.2908660, "lon": 136.3274430 },
+         { "lat": 35.2910000, "lon": 136.3277000 },
+         { "lat": 35.2911690, "lon": 136.3278790 },
+         { "lat": 35.2911960, "lon": 136.3279250 },
+         { "lat": 35.2913810, "lon": 136.3282360 },
+         { "lat": 35.2914750, "lon": 136.3283550 },
+         { "lat": 35.2915300, "lon": 136.3284240 },
+         { "lat": 35.2916110, "lon": 136.3284800 },
+         { "lat": 35.2918060, "lon": 136.3284130 },
+         { "lat": 35.2922350, "lon": 136.3281990 },
+         { "lat": 35.2923840, "lon": 136.3281240 },
+         { "lat": 35.2923870, "lon": 136.3281220 },
+         { "lat": 35.2925040, "lon": 136.3280640 },
+         { "lat": 35.2925510, "lon": 136.3280360 },
+         { "lat": 35.2929140, "lon": 136.3278210 },
+         { "lat": 35.2929240, "lon": 136.3278150 },
+         { "lat": 35.2932660, "lon": 136.3276030 },
+         { "lat": 35.2933320, "lon": 136.3275630 },
+         { "lat": 35.2936150, "lon": 136.3273550 },
+         { "lat": 35.2938910, "lon": 136.3271530 },
+         { "lat": 35.2939450, "lon": 136.3271230 },
+         { "lat": 35.2941730, "lon": 136.3269970 },
+         { "lat": 35.2944370, "lon": 136.3268520 },
+         { "lat": 35.2945280, "lon": 136.3268020 },
+         { "lat": 35.2945940, "lon": 136.3267610 },
+         { "lat": 35.2947280, "lon": 136.3266770 },
+         { "lat": 35.2948790, "lon": 136.3265830 },
+         { "lat": 35.2950430, "lon": 136.3264800 },
+         { "lat": 35.2951330, "lon": 136.3264240 },
+         { "lat": 35.2951970, "lon": 136.3263850 },
+         { "lat": 35.2953450, "lon": 136.3262960 },
+         { "lat": 35.2954670, "lon": 136.3262230 },
+         { "lat": 35.2955560, "lon": 136.3261690 },
+         { "lat": 35.2956650, "lon": 136.3261070 },
+         { "lat": 35.2957440, "lon": 136.3261010 },
+         { "lat": 35.2957990, "lon": 136.3260970 },
+         { "lat": 35.2958910, "lon": 136.3261100 },
+         { "lat": 35.2962160, "lon": 136.3264820 },
+         { "lat": 35.2962170, "lon": 136.3264830 },
+         { "lat": 35.2964870, "lon": 136.3267460 },
+         { "lat": 35.2965080, "lon": 136.3267590 },
+         { "lat": 35.2966830, "lon": 136.3268740 },
+         { "lat": 35.2967800, "lon": 136.3269060 },
+         { "lat": 35.2968410, "lon": 136.3268870 },
+         { "lat": 35.2970240, "lon": 136.3268290 },
+         { "lat": 35.2971960, "lon": 136.3267110 },
+         { "lat": 35.2973030, "lon": 136.3266390 },
+         { "lat": 35.2974700, "lon": 136.3265250 },
+         { "lat": 35.2975080, "lon": 136.3264990 },
+         { "lat": 35.2976280, "lon": 136.3264050 },
+         { "lat": 35.2977830, "lon": 136.3262830 },
+         { "lat": 35.2978650, "lon": 136.3262180 },
+         { "lat": 35.2979150, "lon": 136.3261890 },
+         { "lat": 35.2980400, "lon": 136.3261150 },
+         { "lat": 35.2981610, "lon": 136.3260440 },
+         { "lat": 35.2982090, "lon": 136.3260320 },
+         { "lat": 35.2983690, "lon": 136.3259930 },
+         { "lat": 35.2984410, "lon": 136.3260090 },
+         { "lat": 35.2984530, "lon": 136.3260840 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1391267986,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2984530, "lon": 136.3260840 },
+         { "lat": 35.2983500, "lon": 136.3263310 },
+         { "lat": 35.2983400, "lon": 136.3263830 },
+         { "lat": 35.2982690, "lon": 136.3267730 },
+         { "lat": 35.2982280, "lon": 136.3269860 },
+         { "lat": 35.2982220, "lon": 136.3270080 },
+         { "lat": 35.2981250, "lon": 136.3273660 },
+         { "lat": 35.2981240, "lon": 136.3273700 },
+         { "lat": 35.2980670, "lon": 136.3276960 },
+         { "lat": 35.2980580, "lon": 136.3281570 },
+         { "lat": 35.2980200, "lon": 136.3283780 },
+         { "lat": 35.2980090, "lon": 136.3284430 },
+         { "lat": 35.2979760, "lon": 136.3285470 },
+         { "lat": 35.2979340, "lon": 136.3286750 },
+         { "lat": 35.2978110, "lon": 136.3287910 },
+         { "lat": 35.2976980, "lon": 136.3287910 },
+         { "lat": 35.2976650, "lon": 136.3287910 },
+         { "lat": 35.2975320, "lon": 136.3287910 },
+         { "lat": 35.2974830, "lon": 136.3287670 },
+         { "lat": 35.2973080, "lon": 136.3286850 },
+         { "lat": 35.2969260, "lon": 136.3286640 },
+         { "lat": 35.2968520, "lon": 136.3286720 },
+         { "lat": 35.2968250, "lon": 136.3286750 },
+         { "lat": 35.2967470, "lon": 136.3287240 },
+         { "lat": 35.2967180, "lon": 136.3287420 },
+         { "lat": 35.2965630, "lon": 136.3288680 },
+         { "lat": 35.2964280, "lon": 136.3289070 },
+         { "lat": 35.2959480, "lon": 136.3289530 },
+         { "lat": 35.2958800, "lon": 136.3289640 },
+         { "lat": 35.2958440, "lon": 136.3289700 },
+         { "lat": 35.2957900, "lon": 136.3290300 },
+         { "lat": 35.2957830, "lon": 136.3290460 },
+         { "lat": 35.2957190, "lon": 136.3292020 },
+         { "lat": 35.2956610, "lon": 136.3293430 },
+         { "lat": 35.2956220, "lon": 136.3294390 },
+         { "lat": 35.2956080, "lon": 136.3294980 },
+         { "lat": 35.2955810, "lon": 136.3296160 },
+         { "lat": 35.2955620, "lon": 136.3296990 },
+         { "lat": 35.2955610, "lon": 136.3297020 },
+         { "lat": 35.2955270, "lon": 136.3298140 },
+         { "lat": 35.2955010, "lon": 136.3299020 },
+         { "lat": 35.2954840, "lon": 136.3299590 },
+         { "lat": 35.2954260, "lon": 136.3300630 },
+         { "lat": 35.2953090, "lon": 136.3302730 },
+         { "lat": 35.2952930, "lon": 136.3302880 },
+         { "lat": 35.2952200, "lon": 136.3303540 },
+         { "lat": 35.2948970, "lon": 136.3305750 },
+         { "lat": 35.2946360, "lon": 136.3307260 },
+         { "lat": 35.2945010, "lon": 136.3308030 },
+         { "lat": 35.2944990, "lon": 136.3308040 },
+         { "lat": 35.2943920, "lon": 136.3308350 },
+         { "lat": 35.2943030, "lon": 136.3308600 },
+         { "lat": 35.2940970, "lon": 136.3308600 },
+         { "lat": 35.2940340, "lon": 136.3308600 },
+         { "lat": 35.2938210, "lon": 136.3308290 },
+         { "lat": 35.2937080, "lon": 136.3307440 },
+         { "lat": 35.2935780, "lon": 136.3307120 },
+         { "lat": 35.2934710, "lon": 136.3307230 },
+         { "lat": 35.2932050, "lon": 136.3309100 },
+         { "lat": 35.2929460, "lon": 136.3310680 },
+         { "lat": 35.2929150, "lon": 136.3310790 },
+         { "lat": 35.2927320, "lon": 136.3311420 },
+         { "lat": 35.2925560, "lon": 136.3311770 },
+         { "lat": 35.2923350, "lon": 136.3312110 },
+         { "lat": 35.2922790, "lon": 136.3312190 },
+         { "lat": 35.2921890, "lon": 136.3312500 },
+         { "lat": 35.2920340, "lon": 136.3313040 },
+         { "lat": 35.2917670, "lon": 136.3314270 },
+         { "lat": 35.2916410, "lon": 136.3315390 },
+         { "lat": 35.2916210, "lon": 136.3315650 },
+         { "lat": 35.2914850, "lon": 136.3317400 },
+         { "lat": 35.2912820, "lon": 136.3320650 },
+         { "lat": 35.2912610, "lon": 136.3320970 },
+         { "lat": 35.2912140, "lon": 136.3321730 },
+         { "lat": 35.2911100, "lon": 136.3323700 },
+         { "lat": 35.2911090, "lon": 136.3323800 },
+         { "lat": 35.2910900, "lon": 136.3325390 },
+         { "lat": 35.2910900, "lon": 136.3326550 },
+         { "lat": 35.2911040, "lon": 136.3327530 },
+         { "lat": 35.2911130, "lon": 136.3328160 },
+         { "lat": 35.2911910, "lon": 136.3330670 },
+         { "lat": 35.2912150, "lon": 136.3331480 },
+         { "lat": 35.2912770, "lon": 136.3333560 },
+         { "lat": 35.2912770, "lon": 136.3334960 },
+         { "lat": 35.2912280, "lon": 136.3336540 },
+         { "lat": 35.2910470, "lon": 136.3338790 },
+         { "lat": 35.2908750, "lon": 136.3342180 },
+         { "lat": 35.2906510, "lon": 136.3345210 },
+         { "lat": 35.2905090, "lon": 136.3348090 },
+         { "lat": 35.2903480, "lon": 136.3352130 },
+         { "lat": 35.2901980, "lon": 136.3354320 },
+         { "lat": 35.2901570, "lon": 136.3354920 },
+         { "lat": 35.2901030, "lon": 136.3356120 },
+         { "lat": 35.2900560, "lon": 136.3357180 },
+         { "lat": 35.2900080, "lon": 136.3358240 },
+         { "lat": 35.2899840, "lon": 136.3358780 },
+         { "lat": 35.2899650, "lon": 136.3359370 },
+         { "lat": 35.2899150, "lon": 136.3360880 },
+         { "lat": 35.2898800, "lon": 136.3361950 },
+         { "lat": 35.2898730, "lon": 136.3362260 },
+         { "lat": 35.2898430, "lon": 136.3363570 },
+         { "lat": 35.2897930, "lon": 136.3365740 },
+         { "lat": 35.2897880, "lon": 136.3365940 },
+         { "lat": 35.2897880, "lon": 136.3365950 },
+         { "lat": 35.2897380, "lon": 136.3369130 },
+         { "lat": 35.2897160, "lon": 136.3370560 },
+         { "lat": 35.2897130, "lon": 136.3370720 },
+         { "lat": 35.2896930, "lon": 136.3372380 },
+         { "lat": 35.2896730, "lon": 136.3374030 },
+         { "lat": 35.2896770, "lon": 136.3374760 },
+         { "lat": 35.2896840, "lon": 136.3375990 },
+         { "lat": 35.2897070, "lon": 136.3376980 },
+         { "lat": 35.2897740, "lon": 136.3378450 },
+         { "lat": 35.2897940, "lon": 136.3379650 },
+         { "lat": 35.2897850, "lon": 136.3380810 },
+         { "lat": 35.2897790, "lon": 136.3381570 },
+         { "lat": 35.2897580, "lon": 136.3383350 },
+         { "lat": 35.2897330, "lon": 136.3385370 },
+         { "lat": 35.2897310, "lon": 136.3385580 },
+         { "lat": 35.2897480, "lon": 136.3388250 },
+         { "lat": 35.2897510, "lon": 136.3388410 },
+         { "lat": 35.2898200, "lon": 136.3391900 },
+         { "lat": 35.2898370, "lon": 136.3393060 },
+         { "lat": 35.2898600, "lon": 136.3394720 },
+         { "lat": 35.2898260, "lon": 136.3397090 },
+         { "lat": 35.2897530, "lon": 136.3398250 },
+         { "lat": 35.2897060, "lon": 136.3399380 },
+         { "lat": 35.2896760, "lon": 136.3400110 },
+         { "lat": 35.2896240, "lon": 136.3401490 },
+         { "lat": 35.2896120, "lon": 136.3401800 },
+         { "lat": 35.2894730, "lon": 136.3403320 },
+         { "lat": 35.2892770, "lon": 136.3404830 },
+         { "lat": 35.2890080, "lon": 136.3405990 },
+         { "lat": 35.2888620, "lon": 136.3407460 },
+         { "lat": 35.2887920, "lon": 136.3408170 },
+         { "lat": 35.2887240, "lon": 136.3408880 },
+         { "lat": 35.2886220, "lon": 136.3409940 },
+         { "lat": 35.2885900, "lon": 136.3410280 },
+         { "lat": 35.2885110, "lon": 136.3411030 },
+         { "lat": 35.2883370, "lon": 136.3412660 },
+         { "lat": 35.2882540, "lon": 136.3413440 },
+         { "lat": 35.2882350, "lon": 136.3413620 },
+         { "lat": 35.2881850, "lon": 136.3414550 },
+         { "lat": 35.2881730, "lon": 136.3414770 },
+         { "lat": 35.2881310, "lon": 136.3415560 },
+         { "lat": 35.2881230, "lon": 136.3415990 },
+         { "lat": 35.2880900, "lon": 136.3417640 },
+         { "lat": 35.2880640, "lon": 136.3418990 },
+         { "lat": 35.2880610, "lon": 136.3419150 },
+         { "lat": 35.2880340, "lon": 136.3419780 },
+         { "lat": 35.2879770, "lon": 136.3421080 },
+         { "lat": 35.2879590, "lon": 136.3421300 },
+         { "lat": 35.2878160, "lon": 136.3422970 },
+         { "lat": 35.2877900, "lon": 136.3423260 },
+         { "lat": 35.2876880, "lon": 136.3424430 },
+         { "lat": 35.2875390, "lon": 136.3426120 },
+         { "lat": 35.2875300, "lon": 136.3426230 },
+         { "lat": 35.2874850, "lon": 136.3426690 },
+         { "lat": 35.2873840, "lon": 136.3427720 },
+         { "lat": 35.2873830, "lon": 136.3427740 },
+         { "lat": 35.2872030, "lon": 136.3428670 },
+         { "lat": 35.2871240, "lon": 136.3429070 },
+         { "lat": 35.2870200, "lon": 136.3430690 },
+         { "lat": 35.2870110, "lon": 136.3430970 },
+         { "lat": 35.2869240, "lon": 136.3433860 },
+         { "lat": 35.2868940, "lon": 136.3434750 },
+         { "lat": 35.2867590, "lon": 136.3438680 },
+         { "lat": 35.2867050, "lon": 136.3440260 },
+         { "lat": 35.2866570, "lon": 136.3442030 },
+         { "lat": 35.2866360, "lon": 136.3442800 },
+         { "lat": 35.2866240, "lon": 136.3445290 },
+         { "lat": 35.2866210, "lon": 136.3446350 },
+         { "lat": 35.2866080, "lon": 136.3451160 },
+         { "lat": 35.2866010, "lon": 136.3453820 },
+         { "lat": 35.2865920, "lon": 136.3456140 },
+         { "lat": 35.2865860, "lon": 136.3457550 },
+         { "lat": 35.2865280, "lon": 136.3459730 },
+         { "lat": 35.2864250, "lon": 136.3461340 },
+         { "lat": 35.2862610, "lon": 136.3462400 },
+         { "lat": 35.2861640, "lon": 136.3462720 },
+         { "lat": 35.2859450, "lon": 136.3463460 },
+         { "lat": 35.2856040, "lon": 136.3464490 },
+         { "lat": 35.2855510, "lon": 136.3464660 },
+         { "lat": 35.2851470, "lon": 136.3466130 },
+         { "lat": 35.2851370, "lon": 136.3466170 },
+         { "lat": 35.2848310, "lon": 136.3468220 },
+         { "lat": 35.2847480, "lon": 136.3468770 },
+         { "lat": 35.2843110, "lon": 136.3471310 },
+         { "lat": 35.2838080, "lon": 136.3473400 },
+         { "lat": 35.2837420, "lon": 136.3473670 },
+         { "lat": 35.2832220, "lon": 136.3475790 },
+         { "lat": 35.2828450, "lon": 136.3477330 },
+         { "lat": 35.2827250, "lon": 136.3477820 },
+         { "lat": 35.2824100, "lon": 136.3479090 },
+         { "lat": 35.2821110, "lon": 136.3480310 },
+         { "lat": 35.2818150, "lon": 136.3481510 },
+         { "lat": 35.2815570, "lon": 136.3482610 },
+         { "lat": 35.2813580, "lon": 136.3483450 },
+         { "lat": 35.2807370, "lon": 136.3485100 },
+         { "lat": 35.2804340, "lon": 136.3485580 },
+         { "lat": 35.2803830, "lon": 136.3485660 },
+         { "lat": 35.2800650, "lon": 136.3485520 },
+         { "lat": 35.2799270, "lon": 136.3485450 },
+         { "lat": 35.2798340, "lon": 136.3485520 },
+         { "lat": 35.2795720, "lon": 136.3485690 },
+         { "lat": 35.2794590, "lon": 136.3485770 },
+         { "lat": 35.2792050, "lon": 136.3486090 },
+         { "lat": 35.2789050, "lon": 136.3487110 },
+         { "lat": 35.2787860, "lon": 136.3487970 },
+         { "lat": 35.2786490, "lon": 136.3489420 },
+         { "lat": 35.2783210, "lon": 136.3492940 },
+         { "lat": 35.2782940, "lon": 136.3493230 },
+         { "lat": 35.2781570, "lon": 136.3494450 },
+         { "lat": 35.2780480, "lon": 136.3495410 },
+         { "lat": 35.2779070, "lon": 136.3496220 },
+         { "lat": 35.2777250, "lon": 136.3497260 },
+         { "lat": 35.2777100, "lon": 136.3497300 },
+         { "lat": 35.2774960, "lon": 136.3497940 },
+         { "lat": 35.2772870, "lon": 136.3498160 },
+         { "lat": 35.2766570, "lon": 136.3497820 },
+         { "lat": 35.2763590, "lon": 136.3498330 },
+         { "lat": 35.2757600, "lon": 136.3498360 },
+         { "lat": 35.2756810, "lon": 136.3498410 },
+         { "lat": 35.2753970, "lon": 136.3498610 },
+         { "lat": 35.2752950, "lon": 136.3498940 },
+         { "lat": 35.2752400, "lon": 136.3499110 },
+         { "lat": 35.2751090, "lon": 136.3500300 },
+         { "lat": 35.2749300, "lon": 136.3501630 },
+         { "lat": 35.2747710, "lon": 136.3502240 },
+         { "lat": 35.2746940, "lon": 136.3503070 },
+         { "lat": 35.2746580, "lon": 136.3503460 },
+         { "lat": 35.2745380, "lon": 136.3506030 },
+         { "lat": 35.2744550, "lon": 136.3508050 },
+         { "lat": 35.2742710, "lon": 136.3512510 },
+         { "lat": 35.2742230, "lon": 136.3513440 },
+         { "lat": 35.2741300, "lon": 136.3515250 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1476157154,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2741300, "lon": 136.3515250 },
+         { "lat": 35.2740090, "lon": 136.3514860 },
+         { "lat": 35.2738450, "lon": 136.3514330 },
+         { "lat": 35.2737550, "lon": 136.3514240 },
+         { "lat": 35.2737140, "lon": 136.3514190 },
+         { "lat": 35.2735290, "lon": 136.3514120 },
+         { "lat": 35.2733200, "lon": 136.3513560 },
+         { "lat": 35.2732860, "lon": 136.3513470 },
+         { "lat": 35.2731380, "lon": 136.3513480 },
+         { "lat": 35.2729880, "lon": 136.3513500 },
+         { "lat": 35.2729700, "lon": 136.3513500 },
+         { "lat": 35.2728940, "lon": 136.3513270 },
+         { "lat": 35.2727550, "lon": 136.3512850 },
+         { "lat": 35.2726880, "lon": 136.3512640 },
+         { "lat": 35.2726740, "lon": 136.3512600 },
+         { "lat": 35.2725910, "lon": 136.3512600 },
+         { "lat": 35.2725040, "lon": 136.3512600 },
+         { "lat": 35.2724560, "lon": 136.3512680 },
+         { "lat": 35.2722500, "lon": 136.3513040 },
+         { "lat": 35.2722450, "lon": 136.3513050 },
+         { "lat": 35.2720720, "lon": 136.3513710 },
+         { "lat": 35.2718260, "lon": 136.3514650 },
+         { "lat": 35.2716090, "lon": 136.3514780 },
+         { "lat": 35.2715970, "lon": 136.3514790 },
+         { "lat": 35.2712780, "lon": 136.3514640 },
+         { "lat": 35.2712210, "lon": 136.3514610 },
+         { "lat": 35.2710110, "lon": 136.3514610 },
+         { "lat": 35.2708300, "lon": 136.3514610 },
+         { "lat": 35.2705480, "lon": 136.3513920 },
+         { "lat": 35.2704160, "lon": 136.3514060 },
+         { "lat": 35.2704090, "lon": 136.3514100 },
+         { "lat": 35.2701770, "lon": 136.3515280 },
+         { "lat": 35.2700180, "lon": 136.3515780 },
+         { "lat": 35.2699610, "lon": 136.3515970 },
+         { "lat": 35.2698170, "lon": 136.3515970 },
+         { "lat": 35.2697910, "lon": 136.3515970 },
+         { "lat": 35.2697060, "lon": 136.3515960 },
+         { "lat": 35.2696450, "lon": 136.3515950 },
+         { "lat": 35.2695930, "lon": 136.3515940 },
+         { "lat": 35.2695840, "lon": 136.3515940 },
+         { "lat": 35.2695130, "lon": 136.3515750 },
+         { "lat": 35.2694390, "lon": 136.3515560 },
+         { "lat": 35.2693470, "lon": 136.3515320 },
+         { "lat": 35.2692410, "lon": 136.3515040 },
+         { "lat": 35.2692380, "lon": 136.3515030 },
+         { "lat": 35.2691730, "lon": 136.3514830 },
+         { "lat": 35.2690100, "lon": 136.3514340 },
+         { "lat": 35.2689990, "lon": 136.3514300 },
+         { "lat": 35.2689250, "lon": 136.3513910 },
+         { "lat": 35.2688440, "lon": 136.3513470 },
+         { "lat": 35.2687480, "lon": 136.3512950 },
+         { "lat": 35.2686820, "lon": 136.3512600 },
+         { "lat": 35.2686530, "lon": 136.3512360 },
+         { "lat": 35.2686020, "lon": 136.3511930 },
+         { "lat": 35.2685340, "lon": 136.3511350 },
+         { "lat": 35.2684640, "lon": 136.3510770 },
+         { "lat": 35.2684420, "lon": 136.3510590 },
+         { "lat": 35.2683730, "lon": 136.3509780 },
+         { "lat": 35.2683070, "lon": 136.3509010 },
+         { "lat": 35.2682740, "lon": 136.3508620 },
+         { "lat": 35.2682340, "lon": 136.3508150 },
+         { "lat": 35.2682140, "lon": 136.3507720 },
+         { "lat": 35.2681690, "lon": 136.3506740 },
+         { "lat": 35.2681570, "lon": 136.3506480 },
+         { "lat": 35.2681270, "lon": 136.3505460 },
+         { "lat": 35.2680930, "lon": 136.3504340 },
+         { "lat": 35.2680830, "lon": 136.3503980 },
+         { "lat": 35.2680930, "lon": 136.3500940 },
+         { "lat": 35.2680940, "lon": 136.3500460 },
+         { "lat": 35.2681820, "lon": 136.3498510 },
+         { "lat": 35.2683640, "lon": 136.3496710 },
+         { "lat": 35.2683670, "lon": 136.3496680 },
+         { "lat": 35.2684960, "lon": 136.3495180 },
+         { "lat": 35.2685280, "lon": 136.3494560 },
+         { "lat": 35.2686510, "lon": 136.3492230 },
+         { "lat": 35.2687450, "lon": 136.3490440 },
+         { "lat": 35.2688000, "lon": 136.3489380 },
+         { "lat": 35.2689570, "lon": 136.3486360 },
+         { "lat": 35.2689920, "lon": 136.3485680 },
+         { "lat": 35.2691070, "lon": 136.3482960 },
+         { "lat": 35.2692260, "lon": 136.3480150 },
+         { "lat": 35.2692310, "lon": 136.3478850 },
+         { "lat": 35.2692320, "lon": 136.3478550 },
+         { "lat": 35.2692320, "lon": 136.3478520 },
+         { "lat": 35.2692170, "lon": 136.3477920 },
+         { "lat": 35.2691870, "lon": 136.3476680 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1391267987,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2691870, "lon": 136.3476680 },
+         { "lat": 35.2691150, "lon": 136.3475590 },
+         { "lat": 35.2690330, "lon": 136.3474350 },
+         { "lat": 35.2689520, "lon": 136.3473260 },
+         { "lat": 35.2687960, "lon": 136.3471770 },
+         { "lat": 35.2686500, "lon": 136.3470450 },
+         { "lat": 35.2685450, "lon": 136.3468960 },
+         { "lat": 35.2684850, "lon": 136.3466560 },
+         { "lat": 35.2684820, "lon": 136.3464300 },
+         { "lat": 35.2685530, "lon": 136.3461680 },
+         { "lat": 35.2686820, "lon": 136.3457610 },
+         { "lat": 35.2686960, "lon": 136.3455600 },
+         { "lat": 35.2686880, "lon": 136.3455310 },
+         { "lat": 35.2686700, "lon": 136.3454700 },
+         { "lat": 35.2686440, "lon": 136.3453910 },
+         { "lat": 35.2686300, "lon": 136.3453510 },
+         { "lat": 35.2685500, "lon": 136.3452290 },
+         { "lat": 35.2684020, "lon": 136.3450800 },
+         { "lat": 35.2682190, "lon": 136.3449470 },
+         { "lat": 35.2681290, "lon": 136.3448820 },
+         { "lat": 35.2680120, "lon": 136.3447470 },
+         { "lat": 35.2679520, "lon": 136.3446360 },
+         { "lat": 35.2678890, "lon": 136.3444950 },
+         { "lat": 35.2678490, "lon": 136.3441690 },
+         { "lat": 35.2678460, "lon": 136.3441470 },
+         { "lat": 35.2678350, "lon": 136.3438870 },
+         { "lat": 35.2677940, "lon": 136.3437470 },
+         { "lat": 35.2677390, "lon": 136.3436540 },
+         { "lat": 35.2676490, "lon": 136.3435040 },
+         { "lat": 35.2674410, "lon": 136.3432330 },
+         { "lat": 35.2673740, "lon": 136.3431670 },
+         { "lat": 35.2672340, "lon": 136.3430290 },
+         { "lat": 35.2671720, "lon": 136.3429680 },
+         { "lat": 35.2671540, "lon": 136.3429500 },
+         { "lat": 35.2670200, "lon": 136.3428200 },
+         { "lat": 35.2669540, "lon": 136.3427560 },
+         { "lat": 35.2669220, "lon": 136.3427250 },
+         { "lat": 35.2668140, "lon": 136.3425960 },
+         { "lat": 35.2667220, "lon": 136.3424850 },
+         { "lat": 35.2666200, "lon": 136.3423750 },
+         { "lat": 35.2664200, "lon": 136.3421600 },
+         { "lat": 35.2663770, "lon": 136.3421130 },
+         { "lat": 35.2662790, "lon": 136.3420600 },
+         { "lat": 35.2661920, "lon": 136.3420120 },
+         { "lat": 35.2659860, "lon": 136.3418760 },
+         { "lat": 35.2658920, "lon": 136.3417550 },
+         { "lat": 35.2657140, "lon": 136.3414060 },
+         { "lat": 35.2656550, "lon": 136.3412350 },
+         { "lat": 35.2656170, "lon": 136.3411250 },
+         { "lat": 35.2655330, "lon": 136.3408710 },
+         { "lat": 35.2654490, "lon": 136.3406180 },
+         { "lat": 35.2654280, "lon": 136.3405330 },
+         { "lat": 35.2653460, "lon": 136.3402110 },
+         { "lat": 35.2653090, "lon": 136.3400640 },
+         { "lat": 35.2652720, "lon": 136.3399700 },
+         { "lat": 35.2652120, "lon": 136.3398980 },
+         { "lat": 35.2650380, "lon": 136.3398040 },
+         { "lat": 35.2649380, "lon": 136.3396990 },
+         { "lat": 35.2647160, "lon": 136.3393930 },
+         { "lat": 35.2646000, "lon": 136.3392070 },
+         { "lat": 35.2645620, "lon": 136.3391470 },
+         { "lat": 35.2643990, "lon": 136.3390280 },
+         { "lat": 35.2641770, "lon": 136.3388960 },
+         { "lat": 35.2640170, "lon": 136.3387490 },
+         { "lat": 35.2639630, "lon": 136.3386350 },
+         { "lat": 35.2638860, "lon": 136.3383500 },
+         { "lat": 35.2638730, "lon": 136.3382590 },
+         { "lat": 35.2638460, "lon": 136.3380630 },
+         { "lat": 35.2638260, "lon": 136.3379230 },
+         { "lat": 35.2638060, "lon": 136.3374350 },
+         { "lat": 35.2638280, "lon": 136.3371780 },
+         { "lat": 35.2638510, "lon": 136.3370640 },
+         { "lat": 35.2638940, "lon": 136.3368510 },
+         { "lat": 35.2639820, "lon": 136.3364230 },
+         { "lat": 35.2640190, "lon": 136.3363300 },
+         { "lat": 35.2641070, "lon": 136.3361040 },
+         { "lat": 35.2641360, "lon": 136.3360270 },
+         { "lat": 35.2642670, "lon": 136.3358680 },
+         { "lat": 35.2643450, "lon": 136.3357730 },
+         { "lat": 35.2646240, "lon": 136.3355440 },
+         { "lat": 35.2649190, "lon": 136.3353900 },
+         { "lat": 35.2650700, "lon": 136.3352510 },
+         { "lat": 35.2651690, "lon": 136.3350840 },
+         { "lat": 35.2652200, "lon": 136.3349660 },
+         { "lat": 35.2652410, "lon": 136.3349170 },
+         { "lat": 35.2653100, "lon": 136.3345800 },
+         { "lat": 35.2653340, "lon": 136.3345210 },
+         { "lat": 35.2654040, "lon": 136.3343540 },
+         { "lat": 35.2656280, "lon": 136.3338400 },
+         { "lat": 35.2656340, "lon": 136.3338000 },
+         { "lat": 35.2656400, "lon": 136.3337550 },
+         { "lat": 35.2656310, "lon": 136.3336480 },
+         { "lat": 35.2655740, "lon": 136.3334460 },
+         { "lat": 35.2654410, "lon": 136.3332220 },
+         { "lat": 35.2653580, "lon": 136.3330630 },
+         { "lat": 35.2653540, "lon": 136.3329830 },
+         { "lat": 35.2653440, "lon": 136.3328250 },
+         { "lat": 35.2653410, "lon": 136.3327740 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 1476157563,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2653410, "lon": 136.3327740 },
+         { "lat": 35.2653950, "lon": 136.3322660 },
+         { "lat": 35.2653700, "lon": 136.3319080 },
+         { "lat": 35.2653500, "lon": 136.3316130 },
+         { "lat": 35.2653560, "lon": 136.3315690 },
+         { "lat": 35.2653920, "lon": 136.3313070 },
+         { "lat": 35.2653840, "lon": 136.3309940 },
+         { "lat": 35.2653870, "lon": 136.3308570 },
+         { "lat": 35.2653920, "lon": 136.3306360 },
+         { "lat": 35.2653950, "lon": 136.3305150 },
+         { "lat": 35.2653930, "lon": 136.3304440 },
+         { "lat": 35.2653910, "lon": 136.3303720 },
+         { "lat": 35.2653860, "lon": 136.3302320 },
+         { "lat": 35.2653120, "lon": 136.3299290 },
+         { "lat": 35.2652780, "lon": 136.3297120 },
+         { "lat": 35.2652750, "lon": 136.3296970 },
+         { "lat": 35.2652610, "lon": 136.3295530 },
+         { "lat": 35.2652560, "lon": 136.3295020 },
+         { "lat": 35.2652900, "lon": 136.3292540 },
+         { "lat": 35.2653390, "lon": 136.3291140 },
+         { "lat": 35.2654060, "lon": 136.3289210 },
+         { "lat": 35.2654440, "lon": 136.3287570 },
+         { "lat": 35.2655060, "lon": 136.3284900 },
+         { "lat": 35.2656110, "lon": 136.3282660 },
+         { "lat": 35.2656320, "lon": 136.3282220 },
+         { "lat": 35.2656670, "lon": 136.3281740 },
+         { "lat": 35.2657060, "lon": 136.3281220 },
+         { "lat": 35.2657350, "lon": 136.3280830 },
+         { "lat": 35.2658600, "lon": 136.3279960 },
+         { "lat": 35.2659070, "lon": 136.3279360 },
+         { "lat": 35.2659310, "lon": 136.3279060 },
+         { "lat": 35.2659520, "lon": 136.3277010 },
+         { "lat": 35.2659630, "lon": 136.3275970 },
+         { "lat": 35.2659690, "lon": 136.3275470 },
+         { "lat": 35.2660480, "lon": 136.3273460 },
+         { "lat": 35.2661860, "lon": 136.3271870 },
+         { "lat": 35.2661990, "lon": 136.3271720 },
+         { "lat": 35.2664570, "lon": 136.3269770 },
+         { "lat": 35.2665370, "lon": 136.3268580 },
+         { "lat": 35.2665510, "lon": 136.3268380 },
+         { "lat": 35.2666390, "lon": 136.3266020 },
+         { "lat": 35.2667190, "lon": 136.3263810 },
+         { "lat": 35.2667820, "lon": 136.3262080 },
+         { "lat": 35.2668070, "lon": 136.3260700 },
+         { "lat": 35.2668190, "lon": 136.3260030 },
+         { "lat": 35.2668620, "lon": 136.3259410 },
+         { "lat": 35.2670440, "lon": 136.3257840 },
+         { "lat": 35.2671460, "lon": 136.3256590 },
+         { "lat": 35.2671470, "lon": 136.3256580 },
+         { "lat": 35.2672020, "lon": 136.3255110 },
+         { "lat": 35.2672260, "lon": 136.3254470 },
+         { "lat": 35.2672550, "lon": 136.3253400 },
+         { "lat": 35.2672550, "lon": 136.3253380 },
+         { "lat": 35.2672530, "lon": 136.3253080 },
+         { "lat": 35.2672430, "lon": 136.3250950 },
+         { "lat": 35.2672380, "lon": 136.3249980 },
+         { "lat": 35.2671430, "lon": 136.3244560 },
+         { "lat": 35.2671380, "lon": 136.3244300 },
+         { "lat": 35.2671010, "lon": 136.3241320 },
+         { "lat": 35.2671040, "lon": 136.3239090 },
+         { "lat": 35.2671180, "lon": 136.3238200 },
+         { "lat": 35.2671410, "lon": 136.3236700 },
+         { "lat": 35.2672120, "lon": 136.3234750 },
+         { "lat": 35.2672210, "lon": 136.3231680 },
+         { "lat": 35.2672220, "lon": 136.3231540 },
+         { "lat": 35.2672380, "lon": 136.3228920 },
+         { "lat": 35.2672440, "lon": 136.3228030 },
+         { "lat": 35.2672810, "lon": 136.3224030 },
+         { "lat": 35.2673520, "lon": 136.3220620 },
+         { "lat": 35.2673530, "lon": 136.3220600 },
+         { "lat": 35.2674520, "lon": 136.3217700 },
+         { "lat": 35.2676200, "lon": 136.3214300 },
+         { "lat": 35.2676920, "lon": 136.3211070 },
+         { "lat": 35.2676890, "lon": 136.3209670 },
+         { "lat": 35.2676660, "lon": 136.3208450 },
+         { "lat": 35.2676060, "lon": 136.3206220 },
+         { "lat": 35.2675790, "lon": 136.3205480 },
+         { "lat": 35.2674240, "lon": 136.3201280 },
+         { "lat": 35.2673610, "lon": 136.3198360 },
+         { "lat": 35.2673100, "lon": 136.3195720 },
+         { "lat": 35.2673010, "lon": 136.3195240 },
+         { "lat": 35.2672380, "lon": 136.3194060 },
+         { "lat": 35.2671360, "lon": 136.3193890 },
+         { "lat": 35.2669960, "lon": 136.3194440 },
+         { "lat": 35.2668960, "lon": 136.3196170 },
+         { "lat": 35.2667670, "lon": 136.3198550 },
+         { "lat": 35.2666500, "lon": 136.3199760 },
+         { "lat": 35.2665080, "lon": 136.3200320 },
+         { "lat": 35.2663720, "lon": 136.3200400 },
+         { "lat": 35.2661050, "lon": 136.3200560 },
+         { "lat": 35.2661010, "lon": 136.3200540 },
+         { "lat": 35.2660170, "lon": 136.3200250 },
+         { "lat": 35.2658660, "lon": 136.3198720 },
+         { "lat": 35.2657290, "lon": 136.3197990 },
+         { "lat": 35.2657150, "lon": 136.3197950 },
+         { "lat": 35.2655580, "lon": 136.3197500 },
+         { "lat": 35.2655040, "lon": 136.3197190 },
+         { "lat": 35.2654950, "lon": 136.3196740 },
+         { "lat": 35.2655070, "lon": 136.3196350 },
+         { "lat": 35.2655960, "lon": 136.3193470 },
+         { "lat": 35.2656210, "lon": 136.3192660 },
+         { "lat": 35.2656760, "lon": 136.3189930 },
+         { "lat": 35.2657260, "lon": 136.3187450 },
+         { "lat": 35.2657400, "lon": 136.3186880 },
+         { "lat": 35.2658100, "lon": 136.3183980 },
+         { "lat": 35.2658520, "lon": 136.3182260 },
+         { "lat": 35.2658550, "lon": 136.3181940 },
+         { "lat": 35.2658750, "lon": 136.3180330 },
+         { "lat": 35.2658860, "lon": 136.3179370 },
+         { "lat": 35.2658860, "lon": 136.3179320 },
+         { "lat": 35.2658840, "lon": 136.3178970 },
+         { "lat": 35.2658770, "lon": 136.3177080 },
+         { "lat": 35.2658730, "lon": 136.3175890 },
+         { "lat": 35.2658720, "lon": 136.3175480 },
+         { "lat": 35.2658460, "lon": 136.3174370 },
+         { "lat": 35.2657780, "lon": 136.3171390 },
+         { "lat": 35.2657770, "lon": 136.3171370 },
+         { "lat": 35.2656470, "lon": 136.3166130 },
+         { "lat": 35.2655810, "lon": 136.3164800 },
+         { "lat": 35.2655560, "lon": 136.3164290 },
+         { "lat": 35.2653890, "lon": 136.3162780 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323242493,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2653890, "lon": 136.3162780 },
+         { "lat": 35.2651100, "lon": 136.3161700 },
+         { "lat": 35.2649630, "lon": 136.3161010 },
+         { "lat": 35.2648900, "lon": 136.3160660 },
+         { "lat": 35.2647890, "lon": 136.3159610 },
+         { "lat": 35.2647760, "lon": 136.3159470 },
+         { "lat": 35.2646370, "lon": 136.3157040 },
+         { "lat": 35.2645280, "lon": 136.3154010 },
+         { "lat": 35.2644580, "lon": 136.3152930 },
+         { "lat": 35.2643000, "lon": 136.3150470 },
+         { "lat": 35.2642580, "lon": 136.3149630 },
+         { "lat": 35.2641890, "lon": 136.3148250 },
+         { "lat": 35.2640600, "lon": 136.3145450 },
+         { "lat": 35.2640060, "lon": 136.3144270 },
+         { "lat": 35.2639690, "lon": 136.3143660 },
+         { "lat": 35.2638090, "lon": 136.3140940 },
+         { "lat": 35.2636770, "lon": 136.3139210 },
+         { "lat": 35.2635960, "lon": 136.3138130 },
+         { "lat": 35.2634660, "lon": 136.3137120 },
+         { "lat": 35.2634140, "lon": 136.3136870 },
+         { "lat": 35.2632960, "lon": 136.3136320 },
+         { "lat": 35.2631470, "lon": 136.3136150 },
+         { "lat": 35.2630280, "lon": 136.3136480 },
+         { "lat": 35.2629740, "lon": 136.3136630 },
+         { "lat": 35.2628590, "lon": 136.3137150 },
+         { "lat": 35.2627870, "lon": 136.3137470 },
+         { "lat": 35.2626080, "lon": 136.3137470 },
+         { "lat": 35.2625740, "lon": 136.3137470 },
+         { "lat": 35.2624370, "lon": 136.3136700 },
+         { "lat": 35.2623080, "lon": 136.3135510 },
+         { "lat": 35.2622510, "lon": 136.3134640 },
+         { "lat": 35.2621840, "lon": 136.3134010 },
+         { "lat": 35.2620060, "lon": 136.3132320 },
+         { "lat": 35.2618610, "lon": 136.3130880 },
+         { "lat": 35.2616990, "lon": 136.3129260 },
+         { "lat": 35.2616580, "lon": 136.3128750 },
+         { "lat": 35.2615560, "lon": 136.3127480 },
+         { "lat": 35.2615440, "lon": 136.3127280 },
+         { "lat": 35.2614780, "lon": 136.3126140 },
+         { "lat": 35.2614610, "lon": 136.3125850 },
+         { "lat": 35.2614360, "lon": 136.3124600 },
+         { "lat": 35.2614130, "lon": 136.3123420 },
+         { "lat": 35.2614090, "lon": 136.3123050 },
+         { "lat": 35.2613880, "lon": 136.3121000 },
+         { "lat": 35.2613840, "lon": 136.3120590 },
+         { "lat": 35.2613430, "lon": 136.3118890 },
+         { "lat": 35.2613380, "lon": 136.3118720 },
+         { "lat": 35.2612620, "lon": 136.3117620 },
+         { "lat": 35.2612420, "lon": 136.3117330 },
+         { "lat": 35.2611640, "lon": 136.3116540 },
+         { "lat": 35.2610510, "lon": 136.3115380 },
+         { "lat": 35.2609940, "lon": 136.3114790 },
+         { "lat": 35.2609260, "lon": 136.3114100 },
+         { "lat": 35.2609080, "lon": 136.3113910 },
+         { "lat": 35.2608400, "lon": 136.3113280 },
+         { "lat": 35.2607380, "lon": 136.3112320 },
+         { "lat": 35.2606820, "lon": 136.3111780 },
+         { "lat": 35.2606320, "lon": 136.3111310 },
+         { "lat": 35.2605390, "lon": 136.3110340 },
+         { "lat": 35.2605180, "lon": 136.3110130 },
+         { "lat": 35.2604260, "lon": 136.3109170 },
+         { "lat": 35.2603750, "lon": 136.3108640 },
+         { "lat": 35.2603240, "lon": 136.3108020 },
+         { "lat": 35.2601380, "lon": 136.3105780 },
+         { "lat": 35.2600970, "lon": 136.3105290 },
+         { "lat": 35.2599930, "lon": 136.3104310 },
+         { "lat": 35.2598520, "lon": 136.3103000 },
+         { "lat": 35.2598310, "lon": 136.3102750 },
+         { "lat": 35.2597100, "lon": 136.3101400 },
+         { "lat": 35.2595260, "lon": 136.3098880 },
+         { "lat": 35.2594190, "lon": 136.3097430 },
+         { "lat": 35.2593380, "lon": 136.3096570 },
+         { "lat": 35.2592450, "lon": 136.3095590 },
+         { "lat": 35.2589910, "lon": 136.3093230 },
+         { "lat": 35.2589560, "lon": 136.3092910 },
+         { "lat": 35.2585350, "lon": 136.3088600 },
+         { "lat": 35.2583820, "lon": 136.3086490 },
+         { "lat": 35.2583610, "lon": 136.3086210 },
+         { "lat": 35.2581350, "lon": 136.3082440 },
+         { "lat": 35.2580930, "lon": 136.3081960 },
+         { "lat": 35.2579830, "lon": 136.3080720 },
+         { "lat": 35.2578870, "lon": 136.3079630 },
+         { "lat": 35.2576810, "lon": 136.3077260 },
+         { "lat": 35.2576010, "lon": 136.3075940 },
+         { "lat": 35.2575980, "lon": 136.3074620 },
+         { "lat": 35.2576440, "lon": 136.3072640 },
+         { "lat": 35.2576650, "lon": 136.3072030 },
+         { "lat": 35.2577640, "lon": 136.3069130 },
+         { "lat": 35.2578400, "lon": 136.3065050 },
+         { "lat": 35.2578430, "lon": 136.3063630 },
+         { "lat": 35.2578230, "lon": 136.3062880 },
+         { "lat": 35.2577940, "lon": 136.3061860 },
+         { "lat": 35.2577350, "lon": 136.3061300 },
+         { "lat": 35.2575850, "lon": 136.3059870 },
+         { "lat": 35.2575780, "lon": 136.3059800 },
+         { "lat": 35.2574640, "lon": 136.3058620 },
+         { "lat": 35.2573870, "lon": 136.3056720 },
+         { "lat": 35.2573870, "lon": 136.3056710 },
+         { "lat": 35.2573390, "lon": 136.3054380 },
+         { "lat": 35.2573490, "lon": 136.3052420 },
+         { "lat": 35.2573610, "lon": 136.3051310 },
+         { "lat": 35.2573490, "lon": 136.3050640 },
+         { "lat": 35.2573380, "lon": 136.3050030 },
+         { "lat": 35.2572790, "lon": 136.3048940 },
+         { "lat": 35.2572700, "lon": 136.3048780 },
+         { "lat": 35.2571720, "lon": 136.3046930 },
+         { "lat": 35.2571390, "lon": 136.3046310 },
+         { "lat": 35.2570900, "lon": 136.3045670 },
+         { "lat": 35.2570720, "lon": 136.3045430 },
+         { "lat": 35.2570070, "lon": 136.3045050 },
+         { "lat": 35.2569930, "lon": 136.3045050 },
+         { "lat": 35.2569330, "lon": 136.3045050 },
+         { "lat": 35.2567070, "lon": 136.3046100 },
+         { "lat": 35.2563290, "lon": 136.3048080 },
+         { "lat": 35.2559210, "lon": 136.3049710 },
+         { "lat": 35.2558450, "lon": 136.3049710 },
+         { "lat": 35.2558400, "lon": 136.3049550 },
+         { "lat": 35.2558160, "lon": 136.3048700 },
+         { "lat": 35.2558140, "lon": 136.3048570 },
+         { "lat": 35.2557730, "lon": 136.3045760 },
+         { "lat": 35.2557690, "lon": 136.3045470 },
+         { "lat": 35.2556780, "lon": 136.3042580 },
+         { "lat": 35.2556360, "lon": 136.3040640 },
+         { "lat": 35.2556470, "lon": 136.3038900 },
+         { "lat": 35.2557120, "lon": 136.3037540 },
+         { "lat": 35.2558430, "lon": 136.3035190 },
+         { "lat": 35.2560210, "lon": 136.3032670 },
+         { "lat": 35.2562570, "lon": 136.3030040 },
+         { "lat": 35.2564850, "lon": 136.3026270 },
+         { "lat": 35.2566590, "lon": 136.3022830 },
+         { "lat": 35.2568390, "lon": 136.3019490 },
+         { "lat": 35.2570670, "lon": 136.3013440 },
+         { "lat": 35.2572100, "lon": 136.3008320 },
+         { "lat": 35.2572240, "lon": 136.3007590 },
+         { "lat": 35.2572330, "lon": 136.3007110 },
+         { "lat": 35.2572210, "lon": 136.3006380 },
+         { "lat": 35.2571920, "lon": 136.3006060 },
+         { "lat": 35.2568880, "lon": 136.3002730 },
+         { "lat": 35.2567140, "lon": 136.3000610 },
+         { "lat": 35.2566050, "lon": 136.2998170 },
+         { "lat": 35.2564970, "lon": 136.2996640 },
+         { "lat": 35.2563210, "lon": 136.2995660 },
+         { "lat": 35.2559810, "lon": 136.2995350 },
+         { "lat": 35.2558070, "lon": 136.2994930 },
+         { "lat": 35.2555470, "lon": 136.2993610 },
+         { "lat": 35.2553820, "lon": 136.2992550 },
+         { "lat": 35.2553360, "lon": 136.2992260 },
+         { "lat": 35.2551790, "lon": 136.2990520 },
+         { "lat": 35.2550830, "lon": 136.2989440 },
+         { "lat": 35.2549620, "lon": 136.2988080 },
+         { "lat": 35.2547460, "lon": 136.2985170 },
+         { "lat": 35.2545970, "lon": 136.2982450 },
+         { "lat": 35.2544640, "lon": 136.2980470 },
+         { "lat": 35.2543610, "lon": 136.2978940 },
+         { "lat": 35.2541210, "lon": 136.2975460 },
+         { "lat": 35.2540310, "lon": 136.2974500 },
+         { "lat": 35.2539280, "lon": 136.2973400 },
+         { "lat": 35.2538840, "lon": 136.2972930 },
+         { "lat": 35.2536790, "lon": 136.2971570 },
+         { "lat": 35.2535730, "lon": 136.2970870 },
+         { "lat": 35.2535250, "lon": 136.2970510 },
+         { "lat": 35.2533510, "lon": 136.2969210 },
+         { "lat": 35.2532090, "lon": 136.2968150 },
+         { "lat": 35.2530150, "lon": 136.2967100 },
+         { "lat": 35.2528400, "lon": 136.2966640 },
+         { "lat": 35.2527220, "lon": 136.2966260 },
+         { "lat": 35.2526520, "lon": 136.2966030 },
+         { "lat": 35.2525150, "lon": 136.2966490 },
+         { "lat": 35.2524970, "lon": 136.2966520 },
+         { "lat": 35.2523390, "lon": 136.2966800 },
+         { "lat": 35.2523190, "lon": 136.2966700 },
+         { "lat": 35.2522230, "lon": 136.2966260 },
+         { "lat": 35.2521390, "lon": 136.2965880 },
+         { "lat": 35.2520310, "lon": 136.2965180 },
+         { "lat": 35.2519010, "lon": 136.2964360 },
+         { "lat": 35.2518310, "lon": 136.2964460 },
+         { "lat": 35.2517950, "lon": 136.2964510 },
+         { "lat": 35.2516720, "lon": 136.2964950 },
+         { "lat": 35.2516200, "lon": 136.2965580 },
+         { "lat": 35.2513090, "lon": 136.2969350 },
+         { "lat": 35.2511070, "lon": 136.2971460 },
+         { "lat": 35.2509190, "lon": 136.2972340 },
+         { "lat": 35.2507960, "lon": 136.2972430 },
+         { "lat": 35.2501750, "lon": 136.2970060 },
+         { "lat": 35.2499150, "lon": 136.2968780 },
+         { "lat": 35.2497970, "lon": 136.2968200 },
+         { "lat": 35.2497300, "lon": 136.2968110 },
+         { "lat": 35.2496740, "lon": 136.2968030 },
+         { "lat": 35.2491910, "lon": 136.2969170 },
+         { "lat": 35.2491330, "lon": 136.2969170 },
+         { "lat": 35.2490840, "lon": 136.2968730 },
+         { "lat": 35.2487280, "lon": 136.2965520 },
+         { "lat": 35.2487140, "lon": 136.2965390 },
+         { "lat": 35.2486210, "lon": 136.2964260 },
+         { "lat": 35.2484730, "lon": 136.2962460 },
+         { "lat": 35.2483720, "lon": 136.2961240 },
+         { "lat": 35.2483190, "lon": 136.2960760 },
+         { "lat": 35.2482060, "lon": 136.2959740 },
+         { "lat": 35.2480840, "lon": 136.2958640 },
+         { "lat": 35.2479150, "lon": 136.2957120 },
+         { "lat": 35.2477870, "lon": 136.2955970 },
+         { "lat": 35.2476570, "lon": 136.2955440 },
+         { "lat": 35.2472600, "lon": 136.2955000 },
+         { "lat": 35.2469910, "lon": 136.2953670 },
+         { "lat": 35.2468930, "lon": 136.2952280 },
+         { "lat": 35.2468540, "lon": 136.2951740 },
+         { "lat": 35.2468110, "lon": 136.2949450 },
+         { "lat": 35.2468110, "lon": 136.2947160 },
+         { "lat": 35.2467600, "lon": 136.2946460 },
+         { "lat": 35.2465870, "lon": 136.2944610 },
+         { "lat": 35.2464280, "lon": 136.2944700 },
+         { "lat": 35.2462820, "lon": 136.2944600 },
+         { "lat": 35.2461950, "lon": 136.2944250 },
+         { "lat": 35.2460290, "lon": 136.2943100 },
+         { "lat": 35.2459210, "lon": 136.2942840 },
+         { "lat": 35.2457690, "lon": 136.2942750 },
+         { "lat": 35.2455130, "lon": 136.2943630 },
+         { "lat": 35.2455070, "lon": 136.2943640 },
+         { "lat": 35.2454590, "lon": 136.2943810 },
+         { "lat": 35.2453870, "lon": 136.2943460 },
+         { "lat": 35.2453580, "lon": 136.2942670 },
+         { "lat": 35.2453760, "lon": 136.2940920 },
+         { "lat": 35.2454070, "lon": 136.2938050 },
+         { "lat": 35.2454160, "lon": 136.2937210 },
+         { "lat": 35.2454160, "lon": 136.2935190 },
+         { "lat": 35.2453650, "lon": 136.2931140 },
+         { "lat": 35.2453440, "lon": 136.2928170 },
+         { "lat": 35.2453400, "lon": 136.2927570 },
+         { "lat": 35.2453540, "lon": 136.2926730 },
+         { "lat": 35.2453560, "lon": 136.2926610 },
+         { "lat": 35.2454690, "lon": 136.2925320 },
+         { "lat": 35.2456960, "lon": 136.2923250 },
+         { "lat": 35.2458000, "lon": 136.2922740 },
+         { "lat": 35.2460200, "lon": 136.2921670 },
+         { "lat": 35.2460850, "lon": 136.2920190 },
+         { "lat": 35.2460820, "lon": 136.2919210 },
+         { "lat": 35.2460770, "lon": 136.2917430 },
+         { "lat": 35.2460190, "lon": 136.2915940 },
+         { "lat": 35.2459470, "lon": 136.2914070 },
+         { "lat": 35.2458660, "lon": 136.2912890 },
+         { "lat": 35.2456910, "lon": 136.2912320 },
+         { "lat": 35.2456560, "lon": 136.2912200 },
+         { "lat": 35.2455260, "lon": 136.2911410 },
+         { "lat": 35.2453630, "lon": 136.2909500 },
+         { "lat": 35.2453240, "lon": 136.2909040 },
+         { "lat": 35.2451530, "lon": 136.2907050 },
+         { "lat": 35.2449590, "lon": 136.2901920 },
+         { "lat": 35.2448290, "lon": 136.2899850 },
+         { "lat": 35.2445990, "lon": 136.2897730 },
+         { "lat": 35.2445300, "lon": 136.2897080 },
+         { "lat": 35.2444490, "lon": 136.2896030 },
+         { "lat": 35.2443680, "lon": 136.2894990 },
+         { "lat": 35.2442940, "lon": 136.2894030 },
+         { "lat": 35.2442020, "lon": 136.2892830 },
+         { "lat": 35.2441230, "lon": 136.2891820 },
+         { "lat": 35.2440510, "lon": 136.2890880 },
+         { "lat": 35.2440110, "lon": 136.2890350 },
+         { "lat": 35.2438760, "lon": 136.2889420 },
+         { "lat": 35.2438220, "lon": 136.2889050 },
+         { "lat": 35.2437090, "lon": 136.2888750 },
+         { "lat": 35.2434810, "lon": 136.2888380 },
+         { "lat": 35.2434660, "lon": 136.2888360 },
+         { "lat": 35.2433200, "lon": 136.2887670 },
+         { "lat": 35.2430690, "lon": 136.2885590 },
+         { "lat": 35.2428100, "lon": 136.2884810 },
+         { "lat": 35.2427620, "lon": 136.2884700 },
+         { "lat": 35.2424820, "lon": 136.2884110 },
+         { "lat": 35.2420060, "lon": 136.2882750 },
+         { "lat": 35.2414860, "lon": 136.2881250 },
+         { "lat": 35.2414690, "lon": 136.2881150 },
+         { "lat": 35.2413000, "lon": 136.2880170 },
+         { "lat": 35.2411540, "lon": 136.2878090 },
+         { "lat": 35.2410860, "lon": 136.2875440 },
+         { "lat": 35.2409670, "lon": 136.2870890 },
+         { "lat": 35.2409020, "lon": 136.2866740 },
+         { "lat": 35.2409090, "lon": 136.2866230 },
+         { "lat": 35.2409510, "lon": 136.2863090 },
+         { "lat": 35.2409920, "lon": 136.2859740 },
+         { "lat": 35.2410450, "lon": 136.2858330 },
+         { "lat": 35.2410480, "lon": 136.2858260 },
+         { "lat": 35.2410480, "lon": 136.2856480 },
+         { "lat": 35.2409270, "lon": 136.2854800 },
+         { "lat": 35.2409060, "lon": 136.2854450 },
+         { "lat": 35.2409020, "lon": 136.2854390 },
+         { "lat": 35.2405370, "lon": 136.2853110 },
+         { "lat": 35.2403840, "lon": 136.2852910 },
+         { "lat": 35.2403700, "lon": 136.2852740 },
+         { "lat": 35.2403500, "lon": 136.2852500 },
+         { "lat": 35.2403260, "lon": 136.2850730 },
+         { "lat": 35.2403740, "lon": 136.2848660 },
+         { "lat": 35.2405120, "lon": 136.2844910 },
+         { "lat": 35.2405690, "lon": 136.2843620 },
+         { "lat": 35.2405930, "lon": 136.2842420 },
+         { "lat": 35.2405600, "lon": 136.2839260 },
+         { "lat": 35.2404980, "lon": 136.2835220 },
+         { "lat": 35.2404710, "lon": 136.2833440 },
+         { "lat": 35.2404600, "lon": 136.2830310 },
+         { "lat": 35.2404410, "lon": 136.2824640 },
+         { "lat": 35.2404360, "lon": 136.2823330 },
+         { "lat": 35.2404260, "lon": 136.2820260 },
+         { "lat": 35.2404190, "lon": 136.2818300 },
+         { "lat": 35.2404160, "lon": 136.2817310 },
+         { "lat": 35.2405860, "lon": 136.2814960 },
+         { "lat": 35.2406310, "lon": 136.2813570 },
+         { "lat": 35.2408320, "lon": 136.2810980 },
+         { "lat": 35.2409940, "lon": 136.2808880 },
+         { "lat": 35.2410210, "lon": 136.2809070 },
+         { "lat": 35.2411190, "lon": 136.2809740 },
+         { "lat": 35.2411320, "lon": 136.2809830 },
+         { "lat": 35.2411540, "lon": 136.2809980 },
+         { "lat": 35.2413700, "lon": 136.2809570 },
+         { "lat": 35.2413870, "lon": 136.2809390 },
+         { "lat": 35.2414250, "lon": 136.2809000 },
+         { "lat": 35.2415260, "lon": 136.2807960 },
+         { "lat": 35.2416100, "lon": 136.2807090 },
+         { "lat": 35.2416120, "lon": 136.2807070 },
+         { "lat": 35.2418550, "lon": 136.2804550 },
+         { "lat": 35.2419240, "lon": 136.2803850 },
+         { "lat": 35.2420390, "lon": 136.2802660 },
+         { "lat": 35.2421410, "lon": 136.2800040 },
+         { "lat": 35.2422620, "lon": 136.2796640 },
+         { "lat": 35.2423670, "lon": 136.2793680 },
+         { "lat": 35.2423340, "lon": 136.2792560 },
+         { "lat": 35.2415520, "lon": 136.2784960 },
+         { "lat": 35.2407010, "lon": 136.2777780 },
+         { "lat": 35.2401870, "lon": 136.2773530 },
+         { "lat": 35.2400370, "lon": 136.2772280 },
+         { "lat": 35.2396790, "lon": 136.2769320 },
+         { "lat": 35.2394740, "lon": 136.2767940 },
+         { "lat": 35.2391940, "lon": 136.2763950 },
+         { "lat": 35.2389870, "lon": 136.2761010 },
+         { "lat": 35.2389860, "lon": 136.2761000 },
+         { "lat": 35.2389710, "lon": 136.2760350 },
+         { "lat": 35.2389630, "lon": 136.2760030 },
+         { "lat": 35.2389560, "lon": 136.2759430 },
+         { "lat": 35.2389060, "lon": 136.2755340 },
+         { "lat": 35.2389180, "lon": 136.2754510 },
+         { "lat": 35.2390440, "lon": 136.2752840 },
+         { "lat": 35.2391170, "lon": 136.2751880 },
+         { "lat": 35.2391900, "lon": 136.2750920 },
+         { "lat": 35.2393510, "lon": 136.2750580 },
+         { "lat": 35.2396550, "lon": 136.2749950 },
+         { "lat": 35.2400970, "lon": 136.2748160 },
+         { "lat": 35.2403240, "lon": 136.2746500 },
+         { "lat": 35.2402900, "lon": 136.2745810 },
+         { "lat": 35.2402890, "lon": 136.2745800 },
+         { "lat": 35.2395920, "lon": 136.2741030 },
+         { "lat": 35.2390990, "lon": 136.2737660 },
+         { "lat": 35.2389510, "lon": 136.2732640 },
+         { "lat": 35.2383620, "lon": 136.2730980 },
+         { "lat": 35.2381100, "lon": 136.2730840 },
+         { "lat": 35.2379970, "lon": 136.2730280 },
+         { "lat": 35.2371470, "lon": 136.2723930 },
+         { "lat": 35.2359650, "lon": 136.2714390 },
+         { "lat": 35.2355660, "lon": 136.2721160 },
+         { "lat": 35.2349090, "lon": 136.2715640 },
+         { "lat": 35.2346660, "lon": 136.2713820 },
+         { "lat": 35.2334440, "lon": 136.2704710 },
+         { "lat": 35.2327310, "lon": 136.2699710 },
+         { "lat": 35.2326350, "lon": 136.2699030 },
+         { "lat": 35.2325440, "lon": 136.2698890 },
+         { "lat": 35.2324520, "lon": 136.2699190 },
+         { "lat": 35.2323740, "lon": 136.2699450 },
+         { "lat": 35.2323060, "lon": 136.2700550 },
+         { "lat": 35.2322940, "lon": 136.2700770 },
+         { "lat": 35.2321930, "lon": 136.2702650 },
+         { "lat": 35.2321060, "lon": 136.2704270 },
+         { "lat": 35.2317850, "lon": 136.2710220 },
+         { "lat": 35.2316240, "lon": 136.2713420 },
+         { "lat": 35.2314880, "lon": 136.2712600 },
+         { "lat": 35.2303820, "lon": 136.2734190 },
+         { "lat": 35.2303200, "lon": 136.2735390 },
+         { "lat": 35.2301200, "lon": 136.2739060 },
+         { "lat": 35.2295340, "lon": 136.2749790 },
+         { "lat": 35.2285360, "lon": 136.2742330 },
+         { "lat": 35.2284500, "lon": 136.2741630 },
+         { "lat": 35.2269790, "lon": 136.2729700 },
+         { "lat": 35.2268420, "lon": 136.2728580 },
+         { "lat": 35.2267300, "lon": 136.2727680 },
+         { "lat": 35.2260460, "lon": 136.2722130 },
+         { "lat": 35.2261820, "lon": 136.2718950 },
+         { "lat": 35.2257510, "lon": 136.2714260 },
+         { "lat": 35.2265220, "lon": 136.2700030 },
+         { "lat": 35.2262840, "lon": 136.2698210 },
+         { "lat": 35.2264540, "lon": 136.2694760 },
+         { "lat": 35.2256610, "lon": 136.2687980 },
+         { "lat": 35.2255810, "lon": 136.2687290 },
+         { "lat": 35.2259780, "lon": 136.2679960 },
+         { "lat": 35.2258530, "lon": 136.2678850 },
+         { "lat": 35.2264780, "lon": 136.2667660 },
+         { "lat": 35.2265570, "lon": 136.2666240 },
+         { "lat": 35.2266340, "lon": 136.2666840 },
+         { "lat": 35.2274550, "lon": 136.2673290 },
+         { "lat": 35.2281260, "lon": 136.2661380 },
+         { "lat": 35.2283110, "lon": 136.2658100 },
+         { "lat": 35.2290410, "lon": 136.2645140 },
+         { "lat": 35.2291460, "lon": 136.2643290 },
+         { "lat": 35.2292850, "lon": 136.2640780 },
+         { "lat": 35.2293560, "lon": 136.2639510 },
+         { "lat": 35.2296460, "lon": 136.2634290 },
+         { "lat": 35.2294530, "lon": 136.2632500 },
+         { "lat": 35.2303980, "lon": 136.2616360 },
+         { "lat": 35.2304980, "lon": 136.2614650 },
+         { "lat": 35.2303280, "lon": 136.2612720 },
+         { "lat": 35.2296590, "lon": 136.2607470 },
+         { "lat": 35.2298680, "lon": 136.2603660 },
+         { "lat": 35.2299220, "lon": 136.2602680 },
+         { "lat": 35.2299820, "lon": 136.2601600 },
+         { "lat": 35.2301470, "lon": 136.2598590 },
+         { "lat": 35.2300940, "lon": 136.2597580 },
+         { "lat": 35.2300070, "lon": 136.2595930 },
+         { "lat": 35.2297780, "lon": 136.2591610 },
+         { "lat": 35.2297610, "lon": 136.2591280 },
+         { "lat": 35.2296880, "lon": 136.2589900 },
+         { "lat": 35.2296640, "lon": 136.2589450 },
+         { "lat": 35.2296290, "lon": 136.2588790 },
+         { "lat": 35.2295760, "lon": 136.2587790 },
+         { "lat": 35.2293550, "lon": 136.2585780 },
+         { "lat": 35.2283750, "lon": 136.2576870 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258424,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2128340, "lon": 136.2375570 },
+         { "lat": 35.2133620, "lon": 136.2380030 },
+         { "lat": 35.2135320, "lon": 136.2381350 },
+         { "lat": 35.2137610, "lon": 136.2382090 },
+         { "lat": 35.2142100, "lon": 136.2384310 },
+         { "lat": 35.2143174, "lon": 136.2384964 },
+         { "lat": 35.2143840, "lon": 136.2385370 },
+         { "lat": 35.2145850, "lon": 136.2386590 },
+         { "lat": 35.2147110, "lon": 136.2387640 },
+         { "lat": 35.2147960, "lon": 136.2388360 },
+         { "lat": 35.2151540, "lon": 136.2391080 },
+         { "lat": 35.2152810, "lon": 136.2392550 },
+         { "lat": 35.2153590, "lon": 136.2393730 },
+         { "lat": 35.2153710, "lon": 136.2394070 },
+         { "lat": 35.2154500, "lon": 136.2396370 },
+         { "lat": 35.2155360, "lon": 136.2398170 },
+         { "lat": 35.2156930, "lon": 136.2400520 },
+         { "lat": 35.2156950, "lon": 136.2400530 },
+         { "lat": 35.2158490, "lon": 136.2401840 },
+         { "lat": 35.2159940, "lon": 136.2402280 },
+         { "lat": 35.2163820, "lon": 136.2403760 },
+         { "lat": 35.2165750, "lon": 136.2404640 },
+         { "lat": 35.2168520, "lon": 136.2406110 },
+         { "lat": 35.2173870, "lon": 136.2410220 },
+         { "lat": 35.2174000, "lon": 136.2410320 },
+         { "lat": 35.2175660, "lon": 136.2411600 },
+         { "lat": 35.2177300, "lon": 136.2412860 },
+         { "lat": 35.2172530, "lon": 136.2419350 },
+         { "lat": 35.2171013, "lon": 136.2421380 },
+         { "lat": 35.2170080, "lon": 136.2422690 },
+         { "lat": 35.2164570, "lon": 136.2431160 },
+         { "lat": 35.2162067, "lon": 136.2433860 },
+         { "lat": 35.2159210, "lon": 136.2438790 },
+         { "lat": 35.2158730, "lon": 136.2439470 },
+         { "lat": 35.2158070, "lon": 136.2440410 },
+         { "lat": 35.2155180, "lon": 136.2445980 },
+         { "lat": 35.2164240, "lon": 136.2454140 },
+         { "lat": 35.2169480, "lon": 136.2459170 },
+         { "lat": 35.2177720, "lon": 136.2467060 },
+         { "lat": 35.2179947, "lon": 136.2469224 },
+         { "lat": 35.2180565, "lon": 136.2469625 },
+         { "lat": 35.2178760, "lon": 136.2472500 },
+         { "lat": 35.2175136, "lon": 136.2478703 },
+         { "lat": 35.2178589, "lon": 136.2481796 },
+         { "lat": 35.2179618, "lon": 136.2482674 },
+         { "lat": 35.2174614, "lon": 136.2492467 },
+         { "lat": 35.2175670, "lon": 136.2493014 },
+         { "lat": 35.2176485, "lon": 136.2493869 },
+         { "lat": 35.2176294, "lon": 136.2495761 },
+         { "lat": 35.2175174, "lon": 136.2498465 },
+         { "lat": 35.2175210, "lon": 136.2499510 },
+         { "lat": 35.2174030, "lon": 136.2501450 },
+         { "lat": 35.2172029, "lon": 136.2504893 },
+         { "lat": 35.2176286, "lon": 136.2508934 },
+         { "lat": 35.2178696, "lon": 136.2510868 },
+         { "lat": 35.2183311, "lon": 136.2515286 },
+         { "lat": 35.2185298, "lon": 136.2515070 },
+         { "lat": 35.2189950, "lon": 136.2518160 },
+         { "lat": 35.2195440, "lon": 136.2522810 },
+         { "lat": 35.2196430, "lon": 136.2524020 },
+         { "lat": 35.2197430, "lon": 136.2526450 },
+         { "lat": 35.2198168, "lon": 136.2529060 },
+         { "lat": 35.2198270, "lon": 136.2529420 },
+         { "lat": 35.2202000, "lon": 136.2530050 },
+         { "lat": 35.2203310, "lon": 136.2530260 },
+         { "lat": 35.2204760, "lon": 136.2528900 },
+         { "lat": 35.2206770, "lon": 136.2527180 },
+         { "lat": 35.2208690, "lon": 136.2525540 },
+         { "lat": 35.2209690, "lon": 136.2524680 },
+         { "lat": 35.2210110, "lon": 136.2524330 },
+         { "lat": 35.2216700, "lon": 136.2519450 },
+         { "lat": 35.2218090, "lon": 136.2517970 },
+         { "lat": 35.2218537, "lon": 136.2517833 },
+         { "lat": 35.2218920, "lon": 136.2517080 },
+         { "lat": 35.2220280, "lon": 136.2515640 },
+         { "lat": 35.2222420, "lon": 136.2515170 },
+         { "lat": 35.2224910, "lon": 136.2514560 },
+         { "lat": 35.2225900, "lon": 136.2514320 },
+         { "lat": 35.2226870, "lon": 136.2514090 },
+         { "lat": 35.2227730, "lon": 136.2513880 },
+         { "lat": 35.2229290, "lon": 136.2513500 },
+         { "lat": 35.2230440, "lon": 136.2513220 },
+         { "lat": 35.2232130, "lon": 136.2512280 },
+         { "lat": 35.2234340, "lon": 136.2511630 },
+         { "lat": 35.2236550, "lon": 136.2510700 },
+         { "lat": 35.2240140, "lon": 136.2506300 },
+         { "lat": 35.2240610, "lon": 136.2505730 },
+         { "lat": 35.2241660, "lon": 136.2505220 },
+         { "lat": 35.2245680, "lon": 136.2504060 },
+         { "lat": 35.2248760, "lon": 136.2504000 },
+         { "lat": 35.2251880, "lon": 136.2503940 },
+         { "lat": 35.2254720, "lon": 136.2503810 },
+         { "lat": 35.2259160, "lon": 136.2502400 },
+         { "lat": 35.2260210, "lon": 136.2502660 },
+         { "lat": 35.2261590, "lon": 136.2504500 },
+         { "lat": 35.2261817, "lon": 136.2504805 },
+         { "lat": 35.2263370, "lon": 136.2506890 },
+         { "lat": 35.2266110, "lon": 136.2511760 },
+         { "lat": 35.2270120, "lon": 136.2513820 },
+         { "lat": 35.2270180, "lon": 136.2513980 },
+         { "lat": 35.2270720, "lon": 136.2515540 },
+         { "lat": 35.2270890, "lon": 136.2516000 },
+         { "lat": 35.2271460, "lon": 136.2517630 },
+         { "lat": 35.2271650, "lon": 136.2518170 },
+         { "lat": 35.2272590, "lon": 136.2520830 },
+         { "lat": 35.2268130, "lon": 136.2527850 },
+         { "lat": 35.2264220, "lon": 136.2533180 },
+         { "lat": 35.2263920, "lon": 136.2533580 },
+         { "lat": 35.2262630, "lon": 136.2535350 },
+         { "lat": 35.2258160, "lon": 136.2540450 },
+         { "lat": 35.2254900, "lon": 136.2543850 },
+         { "lat": 35.2254400, "lon": 136.2544180 },
+         { "lat": 35.2253120, "lon": 136.2545020 },
+         { "lat": 35.2252260, "lon": 136.2545570 },
+         { "lat": 35.2251980, "lon": 136.2545760 },
+         { "lat": 35.2251800, "lon": 136.2545870 },
+         { "lat": 35.2250660, "lon": 136.2546620 },
+         { "lat": 35.2250110, "lon": 136.2546980 },
+         { "lat": 35.2250680, "lon": 136.2546980 },
+         { "lat": 35.2251980, "lon": 136.2546990 },
+         { "lat": 35.2255340, "lon": 136.2547020 },
+         { "lat": 35.2256360, "lon": 136.2547030 },
+         { "lat": 35.2257500, "lon": 136.2547030 },
+         { "lat": 35.2258560, "lon": 136.2547040 },
+         { "lat": 35.2260130, "lon": 136.2547050 },
+         { "lat": 35.2266990, "lon": 136.2547100 },
+         { "lat": 35.2270280, "lon": 136.2546860 },
+         { "lat": 35.2270710, "lon": 136.2546830 },
+         { "lat": 35.2271530, "lon": 136.2546770 },
+         { "lat": 35.2276470, "lon": 136.2546400 },
+         { "lat": 35.2277160, "lon": 136.2546350 },
+         { "lat": 35.2280160, "lon": 136.2545860 },
+         { "lat": 35.2280886, "lon": 136.2546220 },
+         { "lat": 35.2286210, "lon": 136.2548860 },
+         { "lat": 35.2289930, "lon": 136.2552880 },
+         { "lat": 35.2291480, "lon": 136.2554210 },
+         { "lat": 35.2292510, "lon": 136.2555100 },
+         { "lat": 35.2293270, "lon": 136.2555760 },
+         { "lat": 35.2294160, "lon": 136.2556530 },
+         { "lat": 35.2294940, "lon": 136.2557210 },
+         { "lat": 35.2298760, "lon": 136.2560510 },
+         { "lat": 35.2294940, "lon": 136.2564670 },
+         { "lat": 35.2283750, "lon": 136.2576870 }
+      ]
+    },
+    {
+      "type": "way",
+      "ref": 323258425,
+      "role": "outer",
+      "geometry": [
+         { "lat": 35.2128340, "lon": 136.2375570 },
+         { "lat": 35.2125930, "lon": 136.2373790 },
+         { "lat": 35.2122640, "lon": 136.2372030 },
+         { "lat": 35.2123190, "lon": 136.2370980 },
+         { "lat": 35.2124130, "lon": 136.2369170 },
+         { "lat": 35.2127680, "lon": 136.2362410 },
+         { "lat": 35.2129980, "lon": 136.2358040 },
+         { "lat": 35.2130670, "lon": 136.2357320 },
+         { "lat": 35.2131320, "lon": 136.2356640 },
+         { "lat": 35.2132820, "lon": 136.2355470 },
+         { "lat": 35.2133620, "lon": 136.2354890 },
+         { "lat": 35.2134220, "lon": 136.2354440 },
+         { "lat": 35.2138470, "lon": 136.2347560 },
+         { "lat": 35.2141280, "lon": 136.2342810 },
+         { "lat": 35.2141950, "lon": 136.2341630 },
+         { "lat": 35.2143890, "lon": 136.2338220 },
+         { "lat": 35.2144700, "lon": 136.2336690 },
+         { "lat": 35.2145530, "lon": 136.2335110 },
+         { "lat": 35.2148320, "lon": 136.2328450 },
+         { "lat": 35.2150650, "lon": 136.2322690 },
+         { "lat": 35.2150970, "lon": 136.2321410 },
+         { "lat": 35.2151440, "lon": 136.2319580 },
+         { "lat": 35.2152590, "lon": 136.2317360 },
+         { "lat": 35.2153790, "lon": 136.2316140 },
+         { "lat": 35.2154780, "lon": 136.2315140 },
+         { "lat": 35.2158300, "lon": 136.2310630 },
+         { "lat": 35.2161920, "lon": 136.2304430 },
+         { "lat": 35.2163940, "lon": 136.2300560 },
+         { "lat": 35.2164470, "lon": 136.2299550 },
+         { "lat": 35.2165870, "lon": 136.2298450 },
+         { "lat": 35.2167120, "lon": 136.2297460 },
+         { "lat": 35.2169110, "lon": 136.2296160 },
+         { "lat": 35.2170160, "lon": 136.2295470 },
+         { "lat": 35.2171680, "lon": 136.2294430 },
+         { "lat": 35.2173960, "lon": 136.2293590 },
+         { "lat": 35.2174910, "lon": 136.2293240 },
+         { "lat": 35.2175330, "lon": 136.2292650 },
+         { "lat": 35.2175700, "lon": 136.2292130 },
+         { "lat": 35.2175880, "lon": 136.2291020 },
+         { "lat": 35.2174540, "lon": 136.2286940 },
+         { "lat": 35.2174360, "lon": 136.2283890 },
+         { "lat": 35.2176120, "lon": 136.2280850 },
+         { "lat": 35.2176300, "lon": 136.2279590 },
+         { "lat": 35.2175420, "lon": 136.2274600 },
+         { "lat": 35.2176090, "lon": 136.2271930 },
+         { "lat": 35.2177430, "lon": 136.2268080 },
+         { "lat": 35.2178520, "lon": 136.2266590 },
+         { "lat": 35.2181780, "lon": 136.2264360 },
+         { "lat": 35.2183020, "lon": 136.2262500 },
+         { "lat": 35.2183420, "lon": 136.2261900 },
+         { "lat": 35.2185500, "lon": 136.2257590 },
+         { "lat": 35.2175220, "lon": 136.2249920 },
+         { "lat": 35.2173230, "lon": 136.2248440 },
+         { "lat": 35.2170490, "lon": 136.2245980 },
+         { "lat": 35.2160070, "lon": 136.2238270 },
+         { "lat": 35.2157410, "lon": 136.2236300 },
+         { "lat": 35.2150240, "lon": 136.2230590 },
+         { "lat": 35.2144520, "lon": 136.2226040 },
+         { "lat": 35.2138920, "lon": 136.2221570 },
+         { "lat": 35.2138270, "lon": 136.2221040 },
+         { "lat": 35.2134080, "lon": 136.2218320 },
+         { "lat": 35.2132780, "lon": 136.2217480 },
+         { "lat": 35.2126780, "lon": 136.2229730 },
+         { "lat": 35.2122290, "lon": 136.2238880 },
+         { "lat": 35.2115310, "lon": 136.2233910 },
+         { "lat": 35.2114550, "lon": 136.2233370 },
+         { "lat": 35.2113850, "lon": 136.2232870 },
+         { "lat": 35.2111240, "lon": 136.2231010 },
+         { "lat": 35.2110300, "lon": 136.2230340 },
+         { "lat": 35.2104450, "lon": 136.2224540 },
+         { "lat": 35.2103590, "lon": 136.2224840 },
+         { "lat": 35.2102100, "lon": 136.2226180 },
+         { "lat": 35.2099780, "lon": 136.2229010 },
+         { "lat": 35.2097740, "lon": 136.2227740 },
+         { "lat": 35.2096660, "lon": 136.2227070 },
+         { "lat": 35.2095850, "lon": 136.2226570 },
+         { "lat": 35.2093310, "lon": 136.2224990 },
+         { "lat": 35.2089290, "lon": 136.2221720 },
+         { "lat": 35.2088180, "lon": 136.2221260 },
+         { "lat": 35.2086990, "lon": 136.2220760 },
+         { "lat": 35.2086870, "lon": 136.2220710 },
+         { "lat": 35.2084320, "lon": 136.2219640 },
+         { "lat": 35.2083980, "lon": 136.2220390 },
+         { "lat": 35.2083350, "lon": 136.2221760 },
+         { "lat": 35.2078030, "lon": 136.2233360 },
+         { "lat": 35.2077980, "lon": 136.2233470 },
+         { "lat": 35.2077560, "lon": 136.2233210 },
+         { "lat": 35.2073290, "lon": 136.2230600 },
+         { "lat": 35.2073110, "lon": 136.2230490 },
+         { "lat": 35.2072370, "lon": 136.2228410 },
+         { "lat": 35.2074080, "lon": 136.2226030 },
+         { "lat": 35.2077210, "lon": 136.2219130 },
+         { "lat": 35.2077860, "lon": 136.2217710 },
+         { "lat": 35.2072370, "lon": 136.2213390 },
+         { "lat": 35.2070740, "lon": 136.2212560 },
+         { "lat": 35.2070020, "lon": 136.2212200 },
+         { "lat": 35.2067970, "lon": 136.2215410 },
+         { "lat": 35.2064900, "lon": 136.2220220 },
+         { "lat": 35.2061480, "lon": 136.2225570 },
+         { "lat": 35.2059270, "lon": 136.2230710 },
+         { "lat": 35.2050970, "lon": 136.2225360 },
+         { "lat": 35.2054630, "lon": 136.2217480 },
+         { "lat": 35.2057190, "lon": 136.2212430 },
+         { "lat": 35.2057780, "lon": 136.2211240 },
+         { "lat": 35.2064390, "lon": 136.2197820 },
+         { "lat": 35.2059690, "lon": 136.2193710 },
+         { "lat": 35.2055240, "lon": 136.2189800 },
+         { "lat": 35.2052430, "lon": 136.2187380 },
+         { "lat": 35.2052120, "lon": 136.2187110 },
+         { "lat": 35.2048170, "lon": 136.2183700 },
+         { "lat": 35.2044650, "lon": 136.2181240 },
+         { "lat": 35.2041660, "lon": 136.2178670 },
+         { "lat": 35.2040510, "lon": 136.2177670 },
+         { "lat": 35.2035630, "lon": 136.2174250 },
+         { "lat": 35.2029160, "lon": 136.2169190 },
+         { "lat": 35.2027740, "lon": 136.2168290 },
+         { "lat": 35.2026150, "lon": 136.2167550 },
+         { "lat": 35.2024810, "lon": 136.2167990 },
+         { "lat": 35.2022370, "lon": 136.2169330 },
+         { "lat": 35.2012730, "lon": 136.2168140 },
+         { "lat": 35.2010930, "lon": 136.2168590 },
+         { "lat": 35.1998620, "lon": 136.2159370 },
+         { "lat": 35.1987210, "lon": 136.2149730 },
+         { "lat": 35.1985150, "lon": 136.2147990 },
+         { "lat": 35.1978720, "lon": 136.2142320 },
+         { "lat": 35.1976910, "lon": 136.2140620 },
+         { "lat": 35.1974740, "lon": 136.2138580 },
+         { "lat": 35.1973920, "lon": 136.2137820 },
+         { "lat": 35.1971680, "lon": 136.2135720 },
+         { "lat": 35.1970790, "lon": 136.2134880 },
+         { "lat": 35.1968720, "lon": 136.2135630 },
+         { "lat": 35.1966040, "lon": 136.2137260 },
+         { "lat": 35.1964330, "lon": 136.2138450 },
+         { "lat": 35.1962500, "lon": 136.2140680 },
+         { "lat": 35.1960910, "lon": 136.2143510 },
+         { "lat": 35.1959940, "lon": 136.2147220 },
+         { "lat": 35.1957220, "lon": 136.2152680 },
+         { "lat": 35.1955240, "lon": 136.2155330 },
+         { "lat": 35.1953440, "lon": 136.2157740 },
+         { "lat": 35.1950030, "lon": 136.2159970 },
+         { "lat": 35.1945180, "lon": 136.2160120 },
+         { "lat": 35.1941030, "lon": 136.2161160 },
+         { "lat": 35.1938990, "lon": 136.2160900 },
+         { "lat": 35.1936190, "lon": 136.2160550 }
+      ]
+    }
+  ],
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "land_area": "administrative",
+    "name": "彦根市",
+    "name:ar": "هيكونا، شيغا",
+    "name:de": "Hikone",
+    "name:en": "Hikone",
+    "name:es": "Hikone",
+    "name:fr": "Hikone",
+    "name:ja": "彦根市",
+    "name:ja-Hira": "ひこねし",
+    "name:ja-Latn": "Hikone-shi",
+    "name:ko": "히코네시",
+    "name:pl": "Hikone",
+    "name:ru": "Хиконе",
+    "name:th": "ฮิโกเนะ",
+    "name:uk": "Хіконе",
+    "name:zh": "彥根市",
+    "name:zh-Hans": "彦根市",
+    "name:zh-Hant": "彥根市",
+    "population": "113349",
+    "postal_code": "522-8501",
+    "ref": "252026",
+    "source": "KSJ2/N03",
+    "source:population": "http://www.pref.shiga.lg.jp/data/population/renew/",
+    "start_date": "1937-02-11",
+    "type": "boundary",
+    "website": "https://www.city.hikone.lg.jp/",
+    "wikidata": "Q386635",
+    "wikimedia_commons": "Category:Hikone, Shiga",
+    "wikipedia": "ja:彦根市"
+  }
+}
+
+  ]
+}
