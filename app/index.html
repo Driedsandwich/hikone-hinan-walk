@@ -101,7 +101,7 @@ footer a{color:var(--ink)}
 <header class="top">
   <div class="brand">
     <svg viewBox="0 0 88 68" aria-hidden="true" fill="#1F3A5F"><path d="M4 66 L14 52 H74 L84 66Z"/><rect x="18" y="38" width="52" height="14"/><path d="M10 40 L44 28 L78 40Z"/><rect x="26" y="24" width="36" height="10"/><path d="M20 26 L44 14 L68 26Z"/><path d="M36 14 L44 4 L52 14Z"/></svg>
-    <div>彦根 まち歩き × 避難場所<small>観光の地点から一番近い避難場所まで、徒歩で何分か</small></div>
+    <div>彦根 まち歩き × 避難場所<small>観光の地点から一番近い避難場所まで、徒歩で何分かの目安</small></div>
   </div>
   <nav class="top" aria-label="ページ内の移動">
     <a href="#map-sec">地図を見る</a>
@@ -116,7 +116,7 @@ footer a{color:var(--ink)}
   <div>
     <p class="eyebrow" id="h-eyebrow">選んだ地点</p>
     <h1><span id="h-spot">彦根城</span>から<br>一番近い避難場所まで<span style="font-size:.7em;color:var(--muted)">（<span id="h-haz">洪水</span>の時）</span></h1>
-    <div class="bignum"><span class="w">徒歩</span><span class="n" id="h-min">0</span><span class="u">分</span><span class="badge" id="h-badge"></span></div>
+    <div class="bignum"><span class="w">徒歩</span><span class="n" id="h-min">0</span><span class="u">分</span><span class="w">の目安</span><span class="badge" id="h-badge"></span></div>
     <p class="detail" id="h-detail"></p>
     <p class="detail" id="h-jo"></p>
   </div>
@@ -212,7 +212,7 @@ function renderHero(){
   $("h-haz").textContent = hzLabel(state.hz);
   $("h-min").textContent = fmt(nr.m);
   var b = $("h-badge"); b.textContent = bandText(nr.m); b.style.background = colorFor(nr.m);
-  $("h-detail").innerHTML = "<b>" + esc(sh.name) + "</b>（" + esc(sh.address.replace(/^滋賀県/,"")) + "）まで 直線 約 " + nr.d + " m。道のりは直線の 1.3 倍と推定しています。";
+  $("h-detail").innerHTML = "<b>" + esc(sh.name) + "</b>（" + esc(sh.address.replace(/^滋賀県/,"")) + "）まで、歩く道のりは約 " + Math.round(nr.d*1.3/10)*10 + " m の見積り（直線の " + nr.d + " m に、回り道の分として 1.3 倍を掛けた）。実際の道で測った値ではありません。";
   $("h-jo").innerHTML = "避難生活を送る指定避難所までは、徒歩 " + fmt(jr.m) + " 分（" + esc(hj.name) + "）。" + (s.boat_only ? "<br><b>この地点は琵琶湖の島で、船が必要です。徒歩の分は参考になりません。</b>" : "");
 }
 
